@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567080115689.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1787691419",
+    "id" : "B9CFBAE0",
+    "lastKnownWriteTime" : 1567328654,
+    "last_content_update" : 1567328654,
+    "path" : "F:/mauricehuguenin.github.io/software.Rmd",
+    "project_path" : "software.Rmd",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

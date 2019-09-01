@@ -1,0 +1,28 @@
+name: "Maurice F. Huguenin"
+output_dir: "."
+navbar:
+  title: "Maurice F. Huguenin"
+  left:
+    - text: "Writing"
+      href: research.html
+    - text: "Speaking"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+    - text: "ETH Studium"
+      href: eth_studium.html
+    - text: "Photography"
+      href: photography.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/mauricehuguenin
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/hugueninmaurice
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/maurice-huguenin-997b25166/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

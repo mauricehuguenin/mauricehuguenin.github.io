@@ -1,0 +1,41 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<<<<<<< HEAD
+## Lecture Summaries and Documents
+
+- Cloud Microphysics: [4-Page Summary](eth_studium/cloud_microphysics_summary_maurice_huguenin_2016.pdf)
+
+- Global Biogeochemical Cycles: [4-Page Summary](eth_studium/global_biogeochemical_cycles_summary_maurice_huguenin_2017.pdf)
+
+- Numerical Modelling of Weather and Climate: [Isentropic Model Report](eth_studium/numerical_modelling_report_maurice_huguenin_2017.pdf)
+=======
+>>>>>>> parent of 8f0b456... updated eth_studium
+
+
+<<<<<<< HEAD
+
+## Stundenplan
+<img src="images/stundenplan_msc_eth.png" style="width:100%" align="center">
+
+I completed the following modules:
+- Weather Systems and Atmospheric Dynamics
+- Climate Processes and Feedbacks
+- Climate History and Paleoclimatology
+
+
+=======
+>>>>>>> parent of 8f0b456... updated eth_studium
+__To Do:__
+
+- Post summaries from my ETH lectures
+- Organisational and planning tips
+- Paleoclimate Proxy Document
+- Repetitive Strain Syndrome (RSI), wacom tablet and ergonomics
+
+[Cloud Microphysics: 4-Page Summary](eth_studium/cloud_microphysics_summary_maurice_huguenin_2016.pdf)
+
+[Global Biogeochemical Cycles: 4-Page Summary](eth_studium/global_biogeochemical_cycles_summary_maurice_huguenin_2017.pdf)
+

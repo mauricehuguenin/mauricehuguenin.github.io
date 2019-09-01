@@ -1,0 +1,22 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Thesis
+
+**Huguenin, M. F.** 2018. Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events. Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland [pdf](files/msc_thesis_maurice_huguenin_2018.pdf).
+
+**Huguenin, M. F.** 2016. Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf).
+
+
+## [Google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=queen+victoria&btnG=)
+- This is just a sample link to test out if it works.
+
+A full list of publications is available at the above Google scholar link.
+
+

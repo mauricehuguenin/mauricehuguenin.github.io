@@ -1,0 +1,45 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Blue Hour Tips
+
+The Blue Hour is the period of the day before or after sunset when the sky is still blue. Usually it lasts about 30 minutes.
+
+<img src="photography/20180711-P7117094.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Blue Hour at Marina Bay, Singapore
+
+[https://www.bluehoursite.com/](https://www.bluehoursite.com/) is very helpful in determining when the Blue Hour happens at your location.
+
+### Camera Settings
+* Aperature priority (A) with f4.5 or higher
+* ISO 200+
+* Manual focus (MF)
+* 2 sec. timer with Anti-Shock activated
+
+## Top 5 Black and White Sydney
+
+<img src="photography/20171220-PC203292.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Airbus A340 at Kingsford Smith Airport
+
+<img src="photography/20180325-P3255583.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Australian Magpie
+
+<img src="photography/20180411-P4115700.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Carnival Spirit at Circular Quay
+
+<img src="photography/20180413-P4135851.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Saltwater Crocodile
+
+<img src="photography/20180416-P4165947.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Opera House and Harbor Bridge 
+
+
+... many more to come!
+
+
