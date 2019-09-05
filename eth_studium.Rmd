@@ -14,6 +14,8 @@
 
 ## Stundenplan
 <img src="images/stundenplan_msc_eth.png" style="width:100%" align="center">
+<div style="text-align: right">Right-click & view image for fullscreen</div>
+
 
 I completed the following modules:
 
