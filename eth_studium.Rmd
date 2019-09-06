@@ -11,6 +11,9 @@
 
 - Numerical Modelling of Weather and Climate: [Isentropic Model Report](eth_studium/numerical_modelling_report_maurice_huguenin_2017.pdf)
 
+- Organic Geochemistry and the Global Carbon Cycle: [Long summary](eth_studium/organic_geochemistry_and_the_global_carbon_cycle_summary_maurice_huguenin_2017.pdf)
+
+
 
 ## Stundenplan
 <img src="images/stundenplan_msc_eth.png" style="width:100%" align="center">

@@ -21,6 +21,7 @@ I use the following tools in my research:
 * Microsoft Office 
 * R (data analysis tool)
     + ggplot (data visualisation package)
+    + pkgdown (website creation package)
 
 
 
@@ -28,3 +29,5 @@ __To Do:__
 
 - Include github python tutorials here
 - How I structure my scripts
+- emacs shortcuts (Esc & > = go to end of page, etc.)
+- bash tips and tricks (e.g. how to setup alias)
