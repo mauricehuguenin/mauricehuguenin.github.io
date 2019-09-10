@@ -24,7 +24,6 @@ I use the following tools in my research:
     + pkgdown (website creation package)
 
 
-
 __To Do:__
 
 - Include github python tutorials here
