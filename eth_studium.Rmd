@@ -9,11 +9,13 @@
 
 - Global Biogeochemical Cycles: [4-Page Summary](eth_studium/global_biogeochemical_cycles_summary_maurice_huguenin_2017.pdf)
 
-- Cloud Dynamics, Hurricanes: [4-Page Summary](eth_studium/cloud_dynamics_hurricanes_summary_maurice_huguenin_2017.pdf)
+- Cloud Dynamics Hurricanes: [4-Page Summary](eth_studium/cloud_dynamics_hurricanes_summary_maurice_huguenin_2017.pdf)
 
 - Numerical Modelling of Weather and Climate: [Isentropic Model Report](eth_studium/numerical_modelling_report_maurice_huguenin_2017.pdf)
 
 - Organic Geochemistry and the Global Carbon Cycle: [Long Summary](eth_studium/organic_geochemistry_and_the_global_carbon_cycle_summary_maurice_huguenin_2017.pdf)
+
+- Resource and Environmental Economics: [Learning Goals](eth_studium/resource_and_environmental_economics_summary_maurice_huguenin_2017.pdf)
 
 
 ## Stundenplan
@@ -21,17 +23,11 @@
 <div style="text-align: right">Right-click & view image for fullscreen</div>
 
 
-I completed the following modules:
-
-- Weather Systems and Atmospheric Dynamics
-- Climate Processes and Feedbacks
-- Climate History and Paleoclimatology
-
 __To Do:__
 
 - Post summaries from my ETH lectures
-- Organisational and planning tips
-- Paleoclimate Proxy Document
-- Repetitive Strain Syndrome (RSI), wacom tablet and ergonomics
+- Include Organisational and planning tips
+- Complete Paleoclimate Proxy Document
+- Write section on Repetitive Strain Injury (RSI), wacom tablet and ergonomics
 
 
