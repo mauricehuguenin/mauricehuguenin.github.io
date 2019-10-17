@@ -23,6 +23,19 @@ I use the following tools in my research:
     + ggplot (data visualisation package)
     + pkgdown (website creation package)
 
+## Bash Tips & Tricks
+* how to copy data from one server to another (here from raijin to current directory):
+```
+    rsync -aruv mv7494@raijin.nci.org.au:/g/data/e14/mv7494/access-om2/archive/025deg_jra55_iaf/output0{50..57} .
+```
+* check size of current folder:
+```
+    du -h --max-depth=1
+``` 
+* calculating anomalies in CDO relative to 1979-2016 base period:
+```
+    cdo detrend -yseassub ifile.nc -yseasmean -selyear,1979/2016 ifile.nc ofile.nc &
+```
 
 __To Do:__
 

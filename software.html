@@ -355,6 +355,21 @@ $(document).ready(function () {
 <li>pkgdown (website creation package)</li>
 </ul></li>
 </ul>
+</div>
+<div id="bash-tips-tricks" class="section level2">
+<h2>Bash Tips &amp; Tricks</h2>
+<ul>
+<li>how to copy data from one server to another (here from raijin to current directory):</li>
+</ul>
+<pre><code>    rsync -aruv mv7494@raijin.nci.org.au:/g/data/e14/mv7494/access-om2/archive/025deg_jra55_iaf/output0{50..57} .</code></pre>
+<ul>
+<li>check size of current folder:</li>
+</ul>
+<pre><code>    du -h --max-depth=1</code></pre>
+<ul>
+<li>calculating anomalies in CDO relative to 1979-2016 base period:</li>
+</ul>
+<pre><code>    cdo detrend -yseassub ifile.nc -yseasmean -selyear,1979/2016 ifile.nc ofile.nc &amp;</code></pre>
 <p><strong>To Do:</strong></p>
 <ul>
 <li>Include github python tutorials here</li>
