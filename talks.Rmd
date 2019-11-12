@@ -13,6 +13,8 @@ output:
 
 ## Poster Presentations
 
-2019, June 11-14. **Huguenin, M. F.**, Holmes, R. M. and England, M. H. *Diabatic Contributions to Warm Water Volume Variability During ENSO Events*, Australian Meteorological Society, Darwin, NT, Australia [pdf](presentations/poster_amos_conference_maurice_huguenin_2019.pdf)
+2019, November 19-22. **Huguenin, M. F.**,  Holmes, R. M. and England, M. H. *Discharge and Recharge of Ocean Heat during ENSO Events*, CLEX workshop, Hobart, Tasmania, Australia [pdf](presentations/poster_clex_workshop_maurice_huguenin_2019.pdf), [pptx](presentations/poster_clex_workshop_maurice_huguenin_2019.pptx)
+
+2019, June 11-14. **Huguenin, M. F.**, Holmes, R. M. and England, M. H. *Diabatic Contributions to Warm Water Volume Variability During ENSO Events*, Australian Meteorological Society, Darwin, Northern Territory, Australia [pdf](presentations/poster_amos_conference_maurice_huguenin_2019.pdf)
 
 2019, April 09-12. **Huguenin, M. F.**, Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C. and Knutti, R. *Changes in the Frequency and Persistence of Central European Circulation Types*, European Geophysical Union, Vienna, Austria [pdf](presentations/poster_egu_conference_maurice_huguenin_2019.pdf), [pptx](presentations/poster_egu_conference_maurice_huguenin_2019.pptx)
