@@ -370,6 +370,25 @@ $(document).ready(function () {
 <li>calculating anomalies in CDO relative to 1979-2016 base period:</li>
 </ul>
 <pre><code>    cdo detrend -yseassub ifile.nc -yseasmean -selyear,1979/2016 ifile.nc ofile.nc &amp;</code></pre>
+<ul>
+<li>saving aliases to save time typing folder directions all the time Open your favourite text editor; I use emacs:</li>
+</ul>
+<pre><code>    emacs ~/.bashrc</code></pre>
+<pre><code>    alias emacs=&#39;emacs -nw&#39; # opens the emacs text editor without a window
+    alias data=&#39;/srv/ccrc/data15/z5180028&#39; # alias which links to my data folder when I type &#39;data&#39;
+    alias ll=&#39;ls -ltrh&#39; # get more and clearer info about files in folder
+    # you can also load modules in bashrc to avoid typing it out everytime you open a new terminal
+    module load ncview
+    module load cdo
+    module load netcdf-c/4.4.1.1</code></pre>
+<p>Type CTRL-X followed by CTRL-C to close the emacs text editor.</p>
+<ul>
+<li>saving ssh keys</li>
+</ul>
+<pre><code>    emacs ~/.ssh/config</code></pre>
+<pre><code>    Host raijin
+         Hostname raijin.nci.org.au
+         User mv7494</code></pre>
 <p><strong>To Do:</strong></p>
 <ul>
 <li>Include github python tutorials here</li>

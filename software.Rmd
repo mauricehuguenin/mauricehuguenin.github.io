@@ -36,8 +36,33 @@ I use the following tools in my research:
 ```
     cdo detrend -yseassub ifile.nc -yseasmean -selyear,1979/2016 ifile.nc ofile.nc &
 ```
+* saving aliases to save time typing folder directions all the time
+Open your favourite text editor; I use emacs:
+```
+    emacs ~/.bashrc
+```
+```
+    alias emacs='emacs -nw' # opens the emacs text editor without a window
+    alias data='/srv/ccrc/data15/z5180028' # alias which links to my data folder when I type 'data'
+    alias ll='ls -ltrh' # get more and clearer info about files in folder
+    # you can also load modules in bashrc to avoid typing it out everytime you open a new terminal
+    module load ncview
+    module load cdo
+    module load netcdf-c/4.4.1.1
+```
+Type CTRL-X followed by CTRL-C to close the emacs text editor.
 
+* saving ssh keys
+```
+    emacs ~/.ssh/config
+```
+```
+    Host raijin
+         Hostname raijin.nci.org.au
+         User mv7494
+```
 __To Do:__
+
 
 - Include github python tutorials here
 - How I structure my scripts
