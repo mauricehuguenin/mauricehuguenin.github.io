@@ -20,3 +20,5 @@ output:
 2019, June 11-14. **Huguenin, M. F.**, Holmes, R. M. and England, M. H. *Diabatic Contributions to Warm Water Volume Variability During ENSO Events*, Australian Meteorological Society, Darwin, Northern Territory, Australia [pdf](presentations/poster_amos_conference_maurice_huguenin_2019.pdf)
 
 2019, April 09-12. **Huguenin, M. F.**, Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C. and Knutti, R. *Changes in the Frequency and Persistence of Central European Circulation Types*, European Geophysical Union, Vienna, Austria [pdf](presentations/poster_egu_conference_maurice_huguenin_2019.pdf), [pptx](presentations/poster_egu_conference_maurice_huguenin_2019.pptx)
+
+2016, June 13. **Huguenin, M. F.**, Medhaug, I. and Knutti, R. *Ocean Heat Uptake and Implications on Sea Level Rise*, Bachelor Seminar, ETH Zurich, Switzerland [pdf](presentations/poster_bsc_seminar_maurice_huguenin_2016.pdf)
