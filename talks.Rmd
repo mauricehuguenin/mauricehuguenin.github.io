@@ -9,7 +9,9 @@ output:
 
 ## Oral Presentations
 
-2019, June 11-14. **Huguenin, M. F.**, Holmes, R. M. and England, M. H. *Diabatic Contributions to Warm Water Volume Variability During ENSO Events*, Australian Meteorological Society, Darwin, NT, Australia [pdf](presentations/msc_thesis_presentation_maurice_huguenin_2019.pdf)
+2019, November 02-03. **Huguenin, M. F.**, Holmes, R. M. and England, M. H. *Diabatic Contributions to Warm Water Volume Variability During ENSO Events*, Workshop on Ocean Warming and Sea Level Rise, UNSW Sydney, Australia
+
+2019, June 11-14. **Huguenin, M. F.**, Holmes, R. M. and England, M. H. *Diabatic Contributions to Warm Water Volume Variability During ENSO Events*, Australian Meteorological Society, Darwin, Northern Territory, Australia [pdf](presentations/msc_thesis_presentation_maurice_huguenin_2019.pdf)
 
 2019, April 17. **Huguenin, M. F.**, Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C. and Knutti, R. *Changes in the Frequency and Persistence of Central European Circulation Types*, MeteoSwiss & ETH Seminars, Zurich, Switzerland [pdf](presentations/meteoswiss_eth_presentation_maurice_huguenin_2019.pdf)
 
