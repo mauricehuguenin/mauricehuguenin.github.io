@@ -389,6 +389,13 @@ $(document).ready(function () {
 <pre><code>    Host raijin
          Hostname raijin.nci.org.au
          User mv7494</code></pre>
+<ul>
+<li>custom LaTeX command to highlight sections that still need to be addressed:</li>
+</ul>
+<pre><code>    \definecolor{myblue}{RGB}{49,65,149}
+    \definecolor{lightorange}{rgb}{0992},0.858,0.780}
+    \newcommand{\todo}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{TODO:}} #1}}}}</code></pre>
+<p>To use the command, type <code>\todo{Text.}</code> and the text in the bracket will be blue, bold and the Helvetica font.</p>
 <p><strong>To Do:</strong></p>
 <ul>
 <li>Include github python tutorials here</li>

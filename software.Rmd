@@ -61,6 +61,16 @@ Type CTRL-X followed by CTRL-C to close the emacs text editor.
          Hostname raijin.nci.org.au
          User mv7494
 ```
+* custom LaTeX command to highlight sections that still need to be addressed:
+```
+    \definecolor{myblue}{RGB}{49,65,149}
+    \definecolor{lightorange}{rgb}{0992},0.858,0.780}
+    \newcommand{\todo}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{TODO:}} #1}}}}
+```
+To use the command, type ```\todo{Text.}``` and the text in the bracket will be blue, bold and the Helvetica font.
+
+
+
 __To Do:__
 
 
