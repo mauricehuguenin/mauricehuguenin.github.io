@@ -67,7 +67,14 @@ Type CTRL-X followed by CTRL-C to close the emacs text editor.
     \definecolor{lightorange}{rgb}{0992},0.858,0.780}
     \newcommand{\todo}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{TODO:}} #1}}}}
 ```
-To use the command, type ```\todo{Text.}``` and the text in the bracket will be blue, bold and the Helvetica font.
+To use the command, use ```\todo{Text.}``` and the text in the bracket will be blue, bold and the Helvetica font.
+
+* LaTeX command to avoid double brackets when using citations:
+```
+\citep[see e.g.][]{meinen2000observations, lengaigne2012mechanisms}
+```
+gives as a result: ```(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)```
+
 
 
 

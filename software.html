@@ -395,7 +395,12 @@ $(document).ready(function () {
 <pre><code>    \definecolor{myblue}{RGB}{49,65,149}
     \definecolor{lightorange}{rgb}{0992},0.858,0.780}
     \newcommand{\todo}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{TODO:}} #1}}}}</code></pre>
-<p>To use the command, type <code>\todo{Text.}</code> and the text in the bracket will be blue, bold and the Helvetica font.</p>
+<p>To use the command, use <code>\todo{Text.}</code> and the text in the bracket will be blue, bold and the Helvetica font.</p>
+<ul>
+<li>LaTeX command to avoid double brackets when using citations:</li>
+</ul>
+<pre><code>\citep[see e.g.][]{meinen2000observations, lengaigne2012mechanisms}</code></pre>
+<p>gives as a result: <code>(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)</code></p>
 <p><strong>To Do:</strong></p>
 <ul>
 <li>Include github python tutorials here</li>
