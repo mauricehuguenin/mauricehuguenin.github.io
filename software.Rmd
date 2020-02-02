@@ -18,6 +18,10 @@ I use the following tools in my research:
     + netCDF4 (read/write netCDF files)
 * LaTeX (document preparation system)
 * MATLAB (data analysis tool)
+    + netCDF/OPeNDAP (CSIRO's interface for importing netcdf files)
+    + cbrewer (custom colour maps)
+    + m_map (map visualization)
+    + TEOS-10 (oceanographic toolbox)
 * Microsoft Office 
 * R (data analysis tool)
     + ggplot (data visualisation package)
