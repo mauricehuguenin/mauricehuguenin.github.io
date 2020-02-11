@@ -79,7 +79,10 @@ To use the command, use ```\todo{Text.}``` and the text in the bracket will be b
 ```
 gives as a result: ```(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)```
 
-
+* restarting unix network printers so they show up in the list of available printers again
+```
+    sudo /etc/init.d/cups restart
+```
 
 
 __To Do:__
