@@ -25,4 +25,4 @@ output:
 
 2019, April 09-12. Changes in the Frequency and Persistence of Central European Circulation Types, European Geophysical Union Annual Meeting, Vienna, Austria [pdf](presentations/poster_egu_conference_maurice_huguenin_2019.pdf), [pptx](presentations/poster_egu_conference_maurice_huguenin_2019.pptx)
 
-2016, June 13. Ocean Heat Uptake and Implications on Sea Level Rise, Bachelor Seminar, ETH Zurich, Switzerland [pdf](presentations/poster_bsc_seminar_maurice_huguenin_2016.pdf)
+2016, June 13. Ocean Heat Uptake and Implications on Sea Level Rise, Bachelor Seminar, ETH Zurich, Switzerland [[pdf](presentations/poster_bsc_seminar_maurice_huguenin_2016.pdf)]

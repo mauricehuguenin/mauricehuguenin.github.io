@@ -68,8 +68,8 @@ Type CTRL-X followed by CTRL-C to close the emacs text editor.
 * custom LaTeX command to highlight sections that still need to be addressed:
 ```
     \definecolor{myblue}{RGB}{49,65,149}
-    \definecolor{lightorange}{rgb}{0992},0.858,0.780}
-    \newcommand{\todo}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{TODO:}} #1}}}}
+    \definecolor{lightorange}{RGB}{253,219,199}
+    \newcommand{\note}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{Note:}} #1}}}}
 ```
 To use the command, use ```\todo{Text.}``` and the text in the bracket will be blue, bold and the Helvetica font.
 
