@@ -56,14 +56,15 @@ Open your favourite text editor; I use emacs:
 ```
 Type CTRL-X followed by CTRL-C to close the emacs text editor.
 
-* saving ssh keys
+* saving ssh keys in `èmacs ~/.ssh/config`:
 ```
-    emacs ~/.ssh/config
-```
-```
-    Host raijin
-         Hostname raijin.nci.org.au
+    Host gadi
+         Hostname gadi.nci.org.au
          User mv7494
+    Host blizz
+         Hostname blizzard.ccrc.unsw.edu.au
+         User z5180028
+         ForwardX11 yes # <- this is the ssh -X prefix which allows GUIs
 ```
 * custom LaTeX command to highlight sections that still need to be addressed:
 ```
@@ -71,13 +72,13 @@ Type CTRL-X followed by CTRL-C to close the emacs text editor.
     \definecolor{lightorange}{RGB}{253,219,199}
     \newcommand{\note}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{Note:}} #1}}}}
 ```
-To use the command, use ```\todo{Text.}``` and the text in the bracket will be blue, bold and the Helvetica font.
+To use the command, use ```\note{Text.}``` and the text in the bracket will be blue, bold and the Helvetica font.
 
 * LaTeX command to avoid double brackets when using citations:
 ```
 \citep[see e.g.][]{meinen2000observations, lengaigne2012mechanisms}
 ```
-gives as a result: ```(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)```
+gives as a result: `(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)`
 
 * restarting unix network printers so they show up in the list of available printers again
 ```

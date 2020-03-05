@@ -389,19 +389,22 @@ $(document).ready(function () {
     module load netcdf-c/4.4.1.1</code></pre>
 <p>Type CTRL-X followed by CTRL-C to close the emacs text editor.</p>
 <ul>
-<li>saving ssh keys</li>
+<li>saving ssh keys in <code>èmacs ~/.ssh/config</code>:</li>
 </ul>
-<pre><code>    emacs ~/.ssh/config</code></pre>
-<pre><code>    Host raijin
-         Hostname raijin.nci.org.au
-         User mv7494</code></pre>
+<pre><code>    Host gadi
+         Hostname gadi.nci.org.au
+         User mv7494
+    Host blizz
+         Hostname blizzard.ccrc.unsw.edu.au
+         User z5180028
+         ForwardX11 yes # &lt;- this is the ssh -X prefix which allows GUIs</code></pre>
 <ul>
 <li>custom LaTeX command to highlight sections that still need to be addressed:</li>
 </ul>
 <pre><code>    \definecolor{myblue}{RGB}{49,65,149}
     \definecolor{lightorange}{RGB}{253,219,199}
     \newcommand{\note}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{Note:}} #1}}}}</code></pre>
-<p>To use the command, use <code>\todo{Text.}</code> and the text in the bracket will be blue, bold and the Helvetica font.</p>
+<p>To use the command, use <code>\note{Text.}</code> and the text in the bracket will be blue, bold and the Helvetica font.</p>
 <ul>
 <li>LaTeX command to avoid double brackets when using citations:</li>
 </ul>
