@@ -85,6 +85,36 @@ gives as a result: `(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)`
     sudo /etc/init.d/cups restart
 ```
 
+## Port forwarding of jupyter notebook to local machine
+
+* Include the following aliases in ~/.bashrc
+
+on LOCAL machine:
+```
+    alias note_comp_gadi='ssh -N -f -L 8000:localhost:8889 <nci_account>@gadi.nci.org.au' #Forward port 8889 on gadi to port 8000 on local machine
+    alias note_kill='lsof -ti:8000 | xargs kill -9' #Kill process on port 8000 on local machine`
+``` 
+on GADI:
+```
+    module load python3/3.7.4
+    module use /g/data3/hh5/public/modules
+    module load conda/analysis3
+    alias note_serv = 'jupyter notebook --no-browser --port=8889' #Run jupyter notebook on port 8889
+```
+
+* Steps:\
+1. Do `note_serv` on gadi to run jupyter notebook. I prefer to run it on the root directory.\
+2. Do `note_comp_gadi` on local to connect to gadi.\
+3. On local browser, go to localhost:8000/\
+4. Copy the token shown in step 1 and get through the verification in step 3\
+5. To shutdown, close the browser tabs, do note_kill on local machine, and CTRL+C on gadi to shutdown jupyter notebook server.\
+ 
+ 
+Hopefully this does not occur to you, but if step 3 does not work, do `note_kill` and `note_comp_gadi` again, and shutdown jupyter server and do `note_serv` again. If it is still not working, type in the command in `note_comp_gadi` but without the '-f' option and try again.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 __To Do:__
 

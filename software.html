@@ -414,6 +414,38 @@ $(document).ready(function () {
 <li>restarting unix network printers so they show up in the list of available printers again</li>
 </ul>
 <pre><code>    sudo /etc/init.d/cups restart</code></pre>
+</div>
+<div id="port-forwarding-of-jupyter-notebook-to-local-machine" class="section level2">
+<h2>Port forwarding of jupyter notebook to local machine</h2>
+<ul>
+<li>Include the following aliases in ~/.bashrc</li>
+</ul>
+<p>on LOCAL machine:</p>
+<pre><code>    alias note_comp_gadi=&#39;ssh -N -f -L 8000:localhost:8889 &lt;nci_account&gt;@gadi.nci.org.au&#39; #Forward port 8889 on gadi to port 8000 on local machine
+    alias note_kill=&#39;lsof -ti:8000 | xargs kill -9&#39; #Kill process on port 8000 on local machine`</code></pre>
+<p>on GADI:</p>
+<pre><code>    module load python3/3.7.4
+    module use /g/data3/hh5/public/modules
+    module load conda/analysis3
+    alias note_serv = &#39;jupyter notebook --no-browser --port=8889&#39; #Run jupyter notebook on port 8889</code></pre>
+<ul>
+<li>Steps:<br />
+</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li>Do <code>note_serv</code> on gadi to run jupyter notebook. I prefer to run it on the root directory.<br />
+</li>
+<li>Do <code>note_comp_gadi</code> on local to connect to gadi.<br />
+</li>
+<li>On local browser, go to localhost:8000/<br />
+</li>
+<li>Copy the token shown in step 1 and get through the verification in step 3<br />
+</li>
+<li>To shutdown, close the browser tabs, do note_kill on local machine, and CTRL+C on gadi to shutdown jupyter notebook server.<br />
+</li>
+</ol>
+<p>Hopefully this does not occur to you, but if step 3 does not work, do <code>note_kill</code> and <code>note_comp_gadi</code> again, and shutdown jupyter server and do <code>note_serv</code> again. If it is still not working, type in the command in <code>note_comp_gadi</code> but without the ‘-f’ option and try again.</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
 <p><strong>To Do:</strong></p>
 <ul>
 <li>Include github python tutorials here</li>
