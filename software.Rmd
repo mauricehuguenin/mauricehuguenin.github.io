@@ -85,6 +85,13 @@ gives as a result: `(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)`
     sudo /etc/init.d/cups restart
 ```
 
+* Checking GADI filesystem and storage
+```
+  nci-files-report -f gdata -u mv7494 # same command as du -h --max-depth=1
+  nci-files-report -f scratch -u mv7494
+
+```
+
 ## Port forwarding of jupyter notebook to local machine
 
 * Include the following aliases in ~/.bashrc
@@ -111,6 +118,7 @@ on GADI:
  
  
 Hopefully this does not occur to you, but if step 3 does not work, do `note_kill` and `note_comp_gadi` again, and shutdown jupyter server and do `note_serv` again. If it is still not working, type in the command in `note_comp_gadi` but without the '-f' option and try again.
+
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
