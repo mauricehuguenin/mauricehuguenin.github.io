@@ -7,11 +7,18 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+## Publications
+
+<!-- Insert Altmetric link as on Martin Jucker's homepage -->
+
+
+Santoso, A., H. Hendon, A. Watkins, S. Power, D. Dommenget, M.H. England, L. Frankcombe, N.J. Holbrook, R. Holmes, P. Hope, E. Lim, J. Luo, S. McGregor, S. Neske, H. Nguyen, A. Pepler, H. Rashid, A.S. Gupta, A.S. Taschetto, G. Wang, E. Abellán, A. Sullivan, **M.F. Huguenin**, F. Gamble, and F. Delage, 2019: Dynamics and Predictability of El Niño–Southern Oscillation: An Australian Perspective on Progress and Challenges. *Bulletin of the American Meteorological Society*, **100**, 403–420, https://doi.org/10.1175/BAMS-D-18-0057.1
+
 ## Theses
 
-Huguenin, M. F., 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events.** Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland [pdf](files/msc_thesis_maurice_huguenin_2018.pdf).
+**Huguenin, M. F.**, 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events.** Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland [pdf](files/msc_thesis_maurice_huguenin_2018.pdf).
 
-Huguenin, M. F., 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016.** Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf).
+**Huguenin, M. F.**, 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016.** Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf).
 
 
 ## [Google scholar](https://scholar.google.com/citations?hl=en&user=UI4wCAEAAAAJ)
