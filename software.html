@@ -418,8 +418,12 @@ $(document).ready(function () {
 <li>Checking GADI filesystem and storage</li>
 </ul>
 <pre><code>  nci-files-report -f gdata -u mv7494 # same command as du -h --max-depth=1
-  nci-files-report -f scratch -u mv7494
-</code></pre>
+  nci-files-report -f scratch -u mv7494</code></pre>
+<ul>
+<li>Counting words in LaTeX documents</li>
+</ul>
+<pre><code>  module load texlive/2017
+  texcount file.tex # gives words per title, chapter, section, etc.</code></pre>
 </div>
 <div id="port-forwarding-of-jupyter-notebook-to-local-machine" class="section level2">
 <h2>Port forwarding of jupyter notebook to local machine</h2>

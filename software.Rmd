@@ -89,7 +89,12 @@ gives as a result: `(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)`
 ```
   nci-files-report -f gdata -u mv7494 # same command as du -h --max-depth=1
   nci-files-report -f scratch -u mv7494
+```
 
+* Counting words in LaTeX documents
+```
+  module load texlive/2017
+  texcount file.tex # gives words per title, chapter, section, etc.
 ```
 
 ## Port forwarding of jupyter notebook to local machine
