@@ -11,6 +11,7 @@ I use the following tools in my research:
 * git (public version control software)
 * python (data analysis tool)
     + spyder (graphical user interface)
+    + jupyter (notebook style user interface)
     + xarray (generic multi-dimensional labelled arrays)
     + cartopy (geographic map projections)
     + matplotlib (static plots)

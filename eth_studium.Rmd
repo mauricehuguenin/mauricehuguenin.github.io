@@ -22,12 +22,13 @@
 <img src="images/stundenplan_msc_eth.png" style="width:100%" align="center">
 <div style="text-align: right">Right-click & view image for fullscreen</div>
 
-
-__To Do:__
+## To Do
 
 - Post summaries from my ETH lectures
-- Include Organisational and planning tips
+- Include organisation and planning tips
 - Complete Paleoclimate Proxy Document
 - Write section on Repetitive Strain Injury (RSI), wacom tablet and ergonomics
+- Upload LaTeX proposal and thesis templates with comments
+
 
 
