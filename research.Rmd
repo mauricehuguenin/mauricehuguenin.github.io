@@ -4,16 +4,19 @@ output:
     toc: true
     toc_float: true
 ---
+<!-- Specifics for including altmetric on the homepage -->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Publications
 
-<!-- Insert Altmetric link as on Martin Jucker's homepage -->
-
+<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
 **Huguenin, M. F.**, Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., & Knutti, R. (2020). Lack of Change in the Projected Frequency and Persistence of Atmospheric Circulation Types Over Central Europe. *Geophysical Research Letters*, **47**. [doi.org/10.1029/2019GL086132](https://doi.org/10.1029/2019GL086132)
 
+<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1175/BAMS-D-18-0057.1" style="float:right;"></div> -->
 Santoso, A., Hendon, H., Watkins, A., Power, S., Dommenget, D., England, M. H., Frankcombe, L., Holbrook, N. J., Holmes, R. M., Hope, P., Lim, E., Luo, J., McGregor, S., Neske, S., Nguyen, H., Pepler, A., Rashid, H., Gupta, A. S., Taschetto, A. S., Wang, G., Abellán, E., Sullivan, A., **Huguenin, M. F.**, Gamble, F. & Delage, F. (2019). Dynamics and Predictability of El Niño-Southern Oscillation: An Australian Perspective on Progress and Challenges. *Bulletin of the American Meteorological Society*, **100**, 403-420. [doi.org/10.1175/BAMS-D-18-0057.1](https://doi.org/10.1175/BAMS-D-18-0057.1)
+
 
 ## Theses
 

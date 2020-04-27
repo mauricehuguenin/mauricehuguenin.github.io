@@ -366,9 +366,10 @@ $(document).ready(function () {
 <div id="bash-tips-tricks" class="section level2">
 <h2>Bash Tips &amp; Tricks</h2>
 <ul>
-<li>how to copy data from one server to another (here from raijin to current directory):</li>
+<li>how to copy data from one server to another (here from gadi to current directory):</li>
 </ul>
-<pre><code>    rsync -aruv mv7494@raijin.nci.org.au:/g/data/e14/mv7494/access-om2/archive/025deg_jra55_iaf/output0{50..57} .</code></pre>
+<pre><code>    rsync -aruv &lt;username&gt;@gadi.nci.org.au:/path/on/gadi/filename.nc .
+    rsync -aruv &lt;username&gt;@gadi.nci.org.au:/path/on/gadi/filename.nc path/on/local/machine/filename.nc</code></pre>
 <ul>
 <li>check size of current folder:</li>
 </ul>

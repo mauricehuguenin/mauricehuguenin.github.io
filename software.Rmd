@@ -29,9 +29,10 @@ I use the following tools in my research:
     + pkgdown (website creation package)
 
 ## Bash Tips & Tricks
-* how to copy data from one server to another (here from raijin to current directory):
+* how to copy data from one server to another (here from gadi to current directory):
 ```
-    rsync -aruv mv7494@raijin.nci.org.au:/g/data/e14/mv7494/access-om2/archive/025deg_jra55_iaf/output0{50..57} .
+    rsync -aruv <username>@gadi.nci.org.au:/path/on/gadi/filename.nc .
+    rsync -aruv <username>@gadi.nci.org.au:/path/on/gadi/filename.nc path/on/local/machine/filename.nc
 ```
 * check size of current folder:
 ```
