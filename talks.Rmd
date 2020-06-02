@@ -9,6 +9,10 @@ output:
 
 ## Oral Presentations
 
+2020, May 28. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, COSIMA e-Workshop, Home Office, Australia
+
+2020, May 04. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, PhD Confirmation Presentation, UNSW Sydney, Australia
+
 2019, November 02-03. Diabatic Contributions to Warm Water Volume Variability During ENSO Events, Workshop on Ocean Warming and Sea Level Rise, UNSW Sydney, Australia
 
 2019, June 11-14. Diabatic Contributions to Warm Water Volume Variability During ENSO Events, Australian Meteorological Society Annual Meeting, Darwin, Northern Territory, Australia [pdf](presentations/msc_thesis_presentation_maurice_huguenin_2019.pdf)

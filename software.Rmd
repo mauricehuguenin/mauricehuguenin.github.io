@@ -99,6 +99,13 @@ gives as a result: `(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)`
   texcount file.tex # gives words per title, chapter, section, etc.
 ```
 
+* Download data from remote server to local machine
+```
+rsync -aruv <username>@remote_server:/path/to/files/ /mnt/c/Users/Maurice\ Huguenin/Desktop/
+```
+
+
+
 ## Port forwarding of jupyter notebook to local machine
 
 * Include the following aliases in ~/.bashrc

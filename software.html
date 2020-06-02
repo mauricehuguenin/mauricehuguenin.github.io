@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>software.utf8.md</title>
+<title>software.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -87,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -236,6 +234,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -426,6 +425,10 @@ $(document).ready(function () {
 </ul>
 <pre><code>  module load texlive/2017
   texcount file.tex # gives words per title, chapter, section, etc.</code></pre>
+<ul>
+<li>Download data from remote server to local machine</li>
+</ul>
+<pre><code>rsync -aruv &lt;username&gt;@remote_server:/path/to/files/ /mnt/c/Users/Maurice\ Huguenin/Desktop/</code></pre>
 </div>
 <div id="port-forwarding-of-jupyter-notebook-to-local-machine" class="section level2">
 <h2>Port forwarding of jupyter notebook to local machine</h2>
