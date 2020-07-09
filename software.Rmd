@@ -30,12 +30,7 @@ A list of software I use in my research:
 
 ## Bash Tips & Tricks
 
-__Note to self__: personal tips and tricks for ACCESS-OM2 setups and bash navigation:
-
-[LINK to another html file](CheatSheet_PhD.html)
-
-
-__Note to self__: add these notes down here to the CheatSheet_PHD.html file
+__Note to self__: add these notes down here to the R Markdown file I have in F://
 
 * calculating anomalies in CDO relative to 1979-2016 base period:
 ```
