@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Programming skills
-I use the following tools in my research:
+A list of software I use in my research:
 
 * bash (linux console for file handling and archiving)
 * emacs (basic text editor)
@@ -29,15 +29,14 @@ I use the following tools in my research:
     + pkgdown (website creation package)
 
 ## Bash Tips & Tricks
-* how to copy data from one server to another (here from gadi to current directory):
-```
-    rsync -aruv <username>@gadi.nci.org.au:/path/on/gadi/filename.nc .
-    rsync -aruv <username>@gadi.nci.org.au:/path/on/gadi/filename.nc path/on/local/machine/filename.nc
-```
-* check size of current folder:
-```
-    du -h --max-depth=1
-``` 
+
+__Note to self__: personal tips and tricks for ACCESS-OM2 setups and bash navigation:
+
+[LINK to another html file](CheatSheet_PhD.html)
+
+
+__Note to self__: add these notes down here to the CheatSheet_PHD.html file
+
 * calculating anomalies in CDO relative to 1979-2016 base period:
 ```
     cdo detrend -yseassub ifile.nc -yseasmean -selyear,1979/2016 ifile.nc ofile.nc &
