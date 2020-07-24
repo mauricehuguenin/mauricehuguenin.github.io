@@ -9,6 +9,8 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&user=UI4wCAEAAAAJ).
+
 ## Publications
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
@@ -25,7 +27,7 @@ Huguenin, M. F., 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Vol
 Huguenin, M. F., 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016**. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf).
 
 
-## [Google scholar](https://scholar.google.com/citations?hl=en&user=UI4wCAEAAAAJ)
+
 
 <!-- A full list of publications is available at the above Google scholar link. -->
 
