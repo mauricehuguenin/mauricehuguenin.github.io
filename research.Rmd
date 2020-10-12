@@ -13,7 +13,7 @@ I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&
 
 ## Publications
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-Huguenin, M. F., Holmes, R. M., & England, M. H. (2020). **Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events**. *Journal of Climate*. [doi.org/10.1175/JCLI-D-20-0198.1](https://doi.org/10.1175/JCLI-D-20-0198.1), [preprint](files/jclid200198.pdf)
+Huguenin, M. F., Holmes, R. M., & England, M. H. (2020). **Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events**. *Journal of Climate*. Early online release, [doi.org/10.1175/JCLI-D-20-0198.1](https://doi.org/10.1175/JCLI-D-20-0198.1)
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
 Huguenin, M. F., Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., & Knutti, R. (2020). **Lack of Change in the Projected Frequency and Persistence of Atmospheric Circulation Types Over Central Europe**. *Geophysical Research Letters*, 47. [doi.org/10.1029/2019GL086132](https://doi.org/10.1029/2019GL086132), [Climate Extremes Research Brief](https://climateextremes.org.au/research-brief-current-climate-models-do-not-project-a-more-persistent-central-european-circulation/)
@@ -24,9 +24,9 @@ Santoso, A., Hendon, H., Watkins, A., Power, S., Dommenget, D., England, M. H., 
 
 ## Theses
 
-Huguenin, M. F., 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events**. Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland [pdf](files/msc_thesis_maurice_huguenin_2018.pdf), [proposal](files/msc_thesis_proposal_maurice_huguenin_2018.pdf).
+Huguenin, M. F., 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events**. Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/msc_thesis_maurice_huguenin_2018.pdf), [proposal](files/msc_thesis_proposal_maurice_huguenin_2018.pdf).
 
-Huguenin, M. F., 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016**. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf), [propsal](bsc_thesis_proposal_maurice_huguenin_2016.pdf).
+Huguenin, M. F., 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016**. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf), [propsal](bsc_thesis_proposal_maurice_huguenin_2016.pdf).
 
 
 
