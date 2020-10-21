@@ -13,7 +13,7 @@ I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&
 
 ## Publications
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-Huguenin, M. F., Holmes, R. M., & England, M. H. (2020). **Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events**. *Journal of Climate*. Early online release, [doi.org/10.1175/JCLI-D-20-0198.1](https://doi.org/10.1175/JCLI-D-20-0198.1)
+Huguenin, M. F., Holmes, R. M., & England, M. H. (2020). **Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events**. *Journal of Climate*. 33, 9945–9964. [doi.org/10.1175/JCLI-D-20-0198.1](https://doi.org/10.1175/JCLI-D-20-0198.1)
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
 Huguenin, M. F., Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., & Knutti, R. (2020). **Lack of Change in the Projected Frequency and Persistence of Atmospheric Circulation Types Over Central Europe**. *Geophysical Research Letters*, 47. [doi.org/10.1029/2019GL086132](https://doi.org/10.1029/2019GL086132), [Climate Extremes Research Brief](https://climateextremes.org.au/research-brief-current-climate-models-do-not-project-a-more-persistent-central-european-circulation/)
