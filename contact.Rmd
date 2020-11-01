@@ -10,7 +10,7 @@ Level 4, Mathews Building<br>
 The University of New South Wales<br>
 Sydney, NSW 2052<br>
 Australia<br>
-m __dot__ huguenin-virchaux __at__ unsw __dot__ edu __dot__ au<br>
+m__dot__huguenin-virchaux__at__unsw__dot__edu__dot__au<br>
 
 Or connect with me on GitHub, Twitter, or Linkedin (links in top right).
 
