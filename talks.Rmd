@@ -8,7 +8,7 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Oral Presentations
-2020, November 03-05. Investigating the Role of the Ocean Basins in Anthropogenic Ocean Heat Uptake and Redistribution, Workshop on Ocean Warming and Sea Level Rise, online, Australia
+2020, November 03-06. Investigating the Role of the Ocean Basins in Anthropogenic Ocean Heat Uptake and Redistribution, Workshop on Ocean Warming and Sea Level Rise, online, Australia
 
 2020, May 28. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, COSIMA e-Workshop, online, Australia
 
