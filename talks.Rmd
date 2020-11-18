@@ -8,11 +8,13 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Oral Presentations
-2020, November 03-06. Investigating the Role of the Ocean Basins in Anthropogenic Ocean Heat Uptake and Redistribution, Workshop on Ocean Warming and Sea Level Rise, online, Australia
+2020, November 17. Key Role of Diabatic Processes in Changing Warm Water Volume Variability during ENSO Events, College of Oceanic and Atmospheric Sciences Seminar, Oregon State University, USA, online
 
-2020, May 28. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, COSIMA e-Workshop, online, Australia
+2020, November 03-06. Investigating the Role of the Ocean Basins in Anthropogenic Ocean Heat Uptake and Redistribution, Workshop on Ocean Warming and Sea Level Rise, UNSW Sydney, Australia, online
 
-2020, May 04. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, PhD Confirmation Presentation, UNSW Sydney, Australia
+2020, May 28. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, COSIMA e-Workshop, Australia, online
+
+2020, May 04. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, PhD Confirmation Presentation, UNSW Sydney, Australia, online
 
 2019, November 02-03. Diabatic Contributions to Warm Water Volume Variability During ENSO Events, Workshop on Ocean Warming and Sea Level Rise, UNSW Sydney, Australia
 
@@ -21,6 +23,8 @@ output:
 2019, April 17. Changes in the Frequency and Persistence of Central European Circulation Types, MeteoSwiss & ETH Seminars, Zurich, Switzerland [pdf](presentations/meteoswiss_eth_presentation_maurice_huguenin_2019.pdf)
 
 ## Poster Presentations
+
+2020, November 16-19. Southern Ocean Dominates Anthropogenic Ocean Heat Uptake & Storage, CLEX Annual Workshop, online, Australia
 
 2020, February 16-21. Diabatic Contribution to Ocean Heat Variability during ENSO Events, Ocean Sciences Meeting, San Diego, California, United States of America [pdf](presentations/poster_ocean_sciences_conference_maurice_huguenin_2020.pdf)
 
