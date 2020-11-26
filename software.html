@@ -407,7 +407,7 @@ div.tocify {
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <div id="programming-skills" class="section level2">
 <h2>Programming skills</h2>
-<p>A list of software I use in my research:</p>
+<p>Tools I use in my research:</p>
 <ul>
 <li>bash (linux console for file handling and archiving)</li>
 <li>emacs (basic text editor)</li>
@@ -421,6 +421,7 @@ div.tocify {
 <li>matplotlib (static plots)</li>
 <li>numpy (numerical arrays)</li>
 <li>netCDF4 (read/write netCDF files)</li>
+<li>cdo (climate data operators for netcdf data)</li>
 </ul></li>
 <li>LaTeX (document preparation system)</li>
 <li>MATLAB (data analysis tool)
@@ -437,100 +438,10 @@ div.tocify {
 <li>pkgdown (website creation package)</li>
 </ul></li>
 </ul>
-</div>
-<div id="bash-tips-tricks" class="section level2">
-<h2>Bash Tips &amp; Tricks</h2>
-<p><strong>Note to self</strong>: add these notes down here to the R Markdown file I have in F://</p>
-<ul>
-<li>calculating anomalies in CDO relative to 1979-2016 base period:</li>
-</ul>
-<pre><code>    cdo detrend -yseassub ifile.nc -yseasmean -selyear,1979/2016 ifile.nc ofile.nc &amp;</code></pre>
-<ul>
-<li>saving aliases to save time typing folder directions all the time Open your favourite text editor; I use emacs:</li>
-</ul>
-<pre><code>    emacs ~/.bashrc</code></pre>
-<pre><code>    alias emacs=&#39;emacs -nw&#39; # opens the emacs text editor without a window
-    alias data=&#39;/srv/ccrc/data15/z5180028&#39; # alias which links to my data folder when I type &#39;data&#39;
-    alias ll=&#39;ls -ltrh&#39; # get more and clearer info about files in folder
-    # you can also load modules in bashrc to avoid typing it out everytime you open a new terminal
-    module load ncview
-    module load cdo
-    module load netcdf-c/4.4.1.1</code></pre>
-<p>Type CTRL-X followed by CTRL-C to close the emacs text editor.</p>
-<ul>
-<li>saving ssh keys in <code>èmacs ~/.ssh/config</code>:</li>
-</ul>
-<pre><code>    Host gadi
-         Hostname gadi.nci.org.au
-         User mv7494
-    Host blizz
-         Hostname blizzard.ccrc.unsw.edu.au
-         User z5180028
-         ForwardX11 yes # &lt;- this is the ssh -X prefix which allows GUIs</code></pre>
-<ul>
-<li>custom LaTeX command to highlight sections that still need to be addressed:</li>
-</ul>
-<pre><code>    \definecolor{myblue}{RGB}{49,65,149}
-    \definecolor{lightorange}{RGB}{253,219,199}
-    \newcommand{\note}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{Note:}} #1}}}}</code></pre>
-<p>To use the command, use <code>\note{Text.}</code> and the text in the bracket will be blue, bold and the Helvetica font.</p>
-<ul>
-<li>LaTeX command to avoid double brackets when using citations:</li>
-</ul>
-<pre><code>\citep[see e.g.][]{meinen2000observations, lengaigne2012mechanisms}</code></pre>
-<p>gives as a result: <code>(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)</code></p>
-<ul>
-<li>restarting unix network printers so they show up in the list of available printers again</li>
-</ul>
-<pre><code>    sudo /etc/init.d/cups restart</code></pre>
-<ul>
-<li>Checking GADI filesystem and storage</li>
-</ul>
-<pre><code>  nci-files-report -f gdata -u mv7494 # same command as du -h --max-depth=1
-  nci-files-report -f scratch -u mv7494</code></pre>
-<ul>
-<li>Counting words in LaTeX documents</li>
-</ul>
-<pre><code>  module load texlive/2017
-  texcount file.tex # gives words per title, chapter, section, etc.</code></pre>
-<ul>
-<li>Download data from remote server to local machine</li>
-</ul>
-<pre><code>rsync -aruv &lt;username&gt;@remote_server:/path/to/files/ /mnt/c/Users/Maurice\ Huguenin/Desktop/</code></pre>
-</div>
-<div id="port-forwarding-of-jupyter-notebook-to-local-machine" class="section level2">
-<h2>Port forwarding of jupyter notebook to local machine</h2>
-<ul>
-<li>Include the following aliases in ~/.bashrc</li>
-</ul>
-<p>on LOCAL machine:</p>
-<pre><code>    alias note_comp_gadi=&#39;ssh -N -f -L 8000:localhost:8889 &lt;nci_account&gt;@gadi.nci.org.au&#39; #Forward port 8889 on gadi to port 8000 on local machine
-    alias note_kill=&#39;lsof -ti:8000 | xargs kill -9&#39; #Kill process on port 8000 on local machine`</code></pre>
-<p>on GADI:</p>
-<pre><code>    module load python3/3.7.4
-    module use /g/data3/hh5/public/modules
-    module load conda/analysis3
-    alias note_serv = &#39;jupyter notebook --no-browser --port=8889&#39; #Run jupyter notebook on port 8889</code></pre>
-<ul>
-<li>Steps:<br />
-</li>
-</ul>
-<ol style="list-style-type: decimal">
-<li>Do <code>note_serv</code> on gadi to run jupyter notebook. I prefer to run it on the root directory.<br />
-</li>
-<li>Do <code>note_comp_gadi</code> on local to connect to gadi.<br />
-</li>
-<li>On local browser, go to localhost:8000/<br />
-</li>
-<li>Copy the token shown in step 1 and get through the verification in step 3<br />
-</li>
-<li>To shutdown, close the browser tabs, do note_kill on local machine, and CTRL+C on gadi to shutdown jupyter notebook server.<br />
-</li>
-</ol>
-<p>Hopefully this does not occur to you, but if step 3 does not work, do <code>note_kill</code> and <code>note_comp_gadi</code> again, and shutdown jupyter server and do <code>note_serv</code> again. If it is still not working, type in the command in <code>note_comp_gadi</code> but without the ‘-f’ option and try again.</p>
-<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
 <p><strong>To Do:</strong></p>
 <ul>
+<li>Add or link ACCESS-OM2 &amp; Bash Tips and Tricks .html file</li>
+<li>add my own ‘A short introduction to LaTeX’</li>
 <li>Include github python tutorials here</li>
 <li>How I structure my scripts</li>
 <li>emacs shortcuts (Esc &amp; &gt; = go to end of page, etc.)</li>

@@ -8,7 +8,7 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Programming skills
-A list of software I use in my research:
+Tools I use in my research:
 
 * bash (linux console for file handling and archiving)
 * emacs (basic text editor)
@@ -21,6 +21,7 @@ A list of software I use in my research:
     + matplotlib (static plots)
     + numpy (numerical arrays)
     + netCDF4 (read/write netCDF files)
+    + cdo (climate data operators for netcdf data)
 * LaTeX (document preparation system)
 * MATLAB (data analysis tool)
     + netCDF/OPeNDAP (CSIRO's interface for importing netcdf files)
@@ -32,113 +33,10 @@ A list of software I use in my research:
     + ggplot (data visualisation package)
     + pkgdown (website creation package)
 
-## Bash Tips & Tricks
-
-__Note to self__: add these notes down here to the R Markdown file I have in F://
-
-* calculating anomalies in CDO relative to 1979-2016 base period:
-```
-    cdo detrend -yseassub ifile.nc -yseasmean -selyear,1979/2016 ifile.nc ofile.nc &
-```
-* saving aliases to save time typing folder directions all the time
-Open your favourite text editor; I use emacs:
-```
-    emacs ~/.bashrc
-```
-```
-    alias emacs='emacs -nw' # opens the emacs text editor without a window
-    alias data='/srv/ccrc/data15/z5180028' # alias which links to my data folder when I type 'data'
-    alias ll='ls -ltrh' # get more and clearer info about files in folder
-    # you can also load modules in bashrc to avoid typing it out everytime you open a new terminal
-    module load ncview
-    module load cdo
-    module load netcdf-c/4.4.1.1
-```
-Type CTRL-X followed by CTRL-C to close the emacs text editor.
-
-* saving ssh keys in `èmacs ~/.ssh/config`:
-```
-    Host gadi
-         Hostname gadi.nci.org.au
-         User mv7494
-    Host blizz
-         Hostname blizzard.ccrc.unsw.edu.au
-         User z5180028
-         ForwardX11 yes # <- this is the ssh -X prefix which allows GUIs
-```
-* custom LaTeX command to highlight sections that still need to be addressed:
-```
-    \definecolor{myblue}{RGB}{49,65,149}
-    \definecolor{lightorange}{RGB}{253,219,199}
-    \newcommand{\note}{\textbf{\color{myblue}{\fontfamily{phv}\selectfont{\colorbox{lightorange}{\underline{Note:}} #1}}}}
-```
-To use the command, use ```\note{Text.}``` and the text in the bracket will be blue, bold and the Helvetica font.
-
-* LaTeX command to avoid double brackets when using citations:
-```
-\citep[see e.g.][]{meinen2000observations, lengaigne2012mechanisms}
-```
-gives as a result: `(see e.g. Meinen and McPhaden 2000; Lengaigne et al. 2012)`
-
-* restarting unix network printers so they show up in the list of available printers again
-```
-    sudo /etc/init.d/cups restart
-```
-
-* Checking GADI filesystem and storage
-```
-  nci-files-report -f gdata -u mv7494 # same command as du -h --max-depth=1
-  nci-files-report -f scratch -u mv7494
-```
-
-* Counting words in LaTeX documents
-```
-  module load texlive/2017
-  texcount file.tex # gives words per title, chapter, section, etc.
-```
-
-* Download data from remote server to local machine
-```
-rsync -aruv <username>@remote_server:/path/to/files/ /mnt/c/Users/Maurice\ Huguenin/Desktop/
-```
-
-
-
-## Port forwarding of jupyter notebook to local machine
-
-* Include the following aliases in ~/.bashrc
-
-on LOCAL machine:
-```
-    alias note_comp_gadi='ssh -N -f -L 8000:localhost:8889 <nci_account>@gadi.nci.org.au' #Forward port 8889 on gadi to port 8000 on local machine
-    alias note_kill='lsof -ti:8000 | xargs kill -9' #Kill process on port 8000 on local machine`
-``` 
-on GADI:
-```
-    module load python3/3.7.4
-    module use /g/data3/hh5/public/modules
-    module load conda/analysis3
-    alias note_serv = 'jupyter notebook --no-browser --port=8889' #Run jupyter notebook on port 8889
-```
-
-* Steps:\
-1. Do `note_serv` on gadi to run jupyter notebook. I prefer to run it on the root directory.\
-2. Do `note_comp_gadi` on local to connect to gadi.\
-3. On local browser, go to localhost:8000/\
-4. Copy the token shown in step 1 and get through the verification in step 3\
-5. To shutdown, close the browser tabs, do note_kill on local machine, and CTRL+C on gadi to shutdown jupyter notebook server.\
- 
- 
-Hopefully this does not occur to you, but if step 3 does not work, do `note_kill` and `note_comp_gadi` again, and shutdown jupyter server and do `note_serv` again. If it is still not working, type in the command in `note_comp_gadi` but without the '-f' option and try again.
-
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
 __To Do:__
 
-
+- Add or link ACCESS-OM2 & Bash Tips and Tricks .html file
+- add my own 'A short introduction to LaTeX' 
 - Include github python tutorials here
 - How I structure my scripts
 - emacs shortcuts (Esc & > = go to end of page, etc.)
