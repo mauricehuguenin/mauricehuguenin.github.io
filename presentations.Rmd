@@ -8,6 +8,9 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Oral Presentations
+
+2020, December 01-17. Key Role of Diabatic Processes in Changing Warm Water Volume Variability during ENSO Events, American Geophysical Union, USA, online
+
 2020, November 17. Key Role of Diabatic Processes in Changing Warm Water Volume Variability during ENSO Events, College of Oceanic and Atmospheric Sciences Seminar, Oregon State University, USA, online
 
 2020, November 03-06. Investigating the Role of the Ocean Basins in Anthropogenic Ocean Heat Uptake and Redistribution, Workshop on Ocean Warming and Sea Level Rise, UNSW Sydney, Australia, online
