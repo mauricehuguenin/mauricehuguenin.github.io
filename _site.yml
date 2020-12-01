@@ -6,7 +6,7 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "Presentations"
-      href: talks.html
+      href: presentations.html
     - text: "Software"
       href: software.html
     - text: "ETH Studium"
