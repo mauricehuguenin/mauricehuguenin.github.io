@@ -6,8 +6,8 @@ output:
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 
-## Programming skills
 Tools I use in my research:
 
 * bash (linux console for file handling and archiving)
@@ -32,6 +32,7 @@ Tools I use in my research:
 * R (data analysis tool)
     + ggplot (data visualisation package)
     + pkgdown (website creation package)
+
 
 __To Do:__
 

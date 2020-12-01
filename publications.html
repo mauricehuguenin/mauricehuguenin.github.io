@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>README.utf8.md</title>
+<title>publications.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,9 +19,14 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -85,7 +89,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -234,6 +237,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -250,6 +254,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -257,6 +324,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -274,13 +351,13 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="research.html">Writing</a>
+  <a href="publications.html">Publications</a>
 </li>
 <li>
-  <a href="talks.html">Speaking</a>
+  <a href="talks.html">Presentations</a>
 </li>
 <li>
-  <a href="software.html">Programming</a>
+  <a href="software.html">Software</a>
 </li>
 <li>
   <a href="eth_studium.html">ETH Studium</a>
@@ -303,7 +380,7 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="https://twitter.com/hugueninmaurice">
+  <a href="https://twitter.com/MauriceHuguenin">
     <span class="fa fa-twitter fa-lg"></span>
      
   </a>
@@ -327,14 +404,30 @@ $(document).ready(function () {
 </div>
 
 
-<div id="mauricehuguenin.github.io" class="section level1">
-<h1>mauricehuguenin.github.io</h1>
-<p>My personal webpage created with <a href="https://rmarkdown.rstudio.com/">R Markdown</a> and the <a href="https://pkgdown.r-lib.org/">pkgdown</a> package.</p>
-<p>Thanks to Emily Zabor (<a href="https://github.com/zabore" class="uri">https://github.com/zabore</a>) for letting me use her code.</p>
+<!-- Specifics for including altmetric on the homepage -->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<p>I have a profile on <a href="https://scholar.google.com/citations?hl=en&amp;user=UI4wCAEAAAAJ">Google Scholar</a>.</p>
+<div id="peer-reviewed-articles" class="section level2">
+<h2>Peer-Reviewed Articles</h2>
+<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
+<p>Huguenin, M. F., Holmes, R. M., &amp; England, M. H. (2020). <strong>Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events</strong>. <em>Journal of Climate</em>. 33, 9945–9964. <a href="https://doi.org/10.1175/JCLI-D-20-0198.1">doi.org/10.1175/JCLI-D-20-0198.1</a></p>
+<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
+<p>Huguenin, M. F., Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., &amp; Knutti, R. (2020). <strong>Lack of Change in the Projected Frequency and Persistence of Atmospheric Circulation Types Over Central Europe</strong>. <em>Geophysical Research Letters</em>, 47. <a href="https://doi.org/10.1029/2019GL086132">doi.org/10.1029/2019GL086132</a>, <a href="https://climateextremes.org.au/research-brief-current-climate-models-do-not-project-a-more-persistent-central-european-circulation/">Climate Extremes Research Brief</a></p>
+<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1175/BAMS-D-18-0057.1" style="float:right;"></div> -->
+<p>Santoso, A., Hendon, H., Watkins, A., Power, S., Dommenget, D., England, M. H., Frankcombe, L., Holbrook, N. J., Holmes, R. M., Hope, P., Lim, E., Luo, J., McGregor, S., Neske, S., Nguyen, H., Pepler, A., Rashid, H., Gupta, A. S., Taschetto, A. S., Wang, G., Abellán, E., Sullivan, A., Huguenin, M. F., Gamble, F. &amp; Delage, F. (2019). <strong>Dynamics and Predictability of El Niño-Southern Oscillation: An Australian Perspective on Progress and Challenges</strong>. <em>Bulletin of the American Meteorological Society</em>, 100, 403-420. <a href="https://doi.org/10.1175/BAMS-D-18-0057.1">doi.org/10.1175/BAMS-D-18-0057.1</a></p>
+</div>
+<div id="theses" class="section level2">
+<h2>Theses</h2>
+<p>Huguenin, M. F., 2018. <strong>Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events</strong>. Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. <a href="files/msc_thesis_maurice_huguenin_2018.pdf">pdf</a>, <a href="files/msc_thesis_proposal_maurice_huguenin_2018.pdf">proposal</a>.</p>
+<p>Huguenin, M. F., 2016. <strong>Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016</strong>. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. <a href="files/bsc_thesis_maurice_huguenin_2016.pdf">pdf</a>, <a href="bsc_thesis_proposal_maurice_huguenin_2016.pdf">propsal</a>.</p>
+<!-- A full list of publications is available at the above Google scholar link. -->
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -367,6 +460,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
