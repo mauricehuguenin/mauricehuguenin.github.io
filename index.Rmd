@@ -8,9 +8,9 @@
 <br/><br/>
 <img src="images/maurice_1.jpg" style="width:20%; border:10px solid; margin-right: 20px" align="left">
 
-I am a climate science PhD student at the University of New South Wales and have a passionate interest in the role of the ocean's heat content in a warming climate. This is of great importance as over 90% of our human-induced warming signal ends up in the ocean and leads to rising sea levels, changes in the circulation, large-scale sea ice decline and ice shelf instabilities.
+I am a climate science PhD student and investigate recent ocean heat content changes using a numerical global ocean-sea ice model. Ocean heat content is a critical metric in our climate system as the ocean absorbed over 90% of the additional energy in the Earth’s climate system since 1970. Ocean warming affects coastal communities through sea level rise, creates ecological stress for marine ecosystems, affects global fisheries and changes the occurrence of extreme weather events. 
 
-Both my Bachelor's in Earth Sciences and Master's in Atmospheric and Climate Science at ETH Zurich provided me with invaluable data analysis tools and an in-depth understanding of the complexities within our climate system. This enabled me to undergo my current research position at the Climate Change Research Centre.
+Both my Bachelor's in Earth Sciences and Master's in Atmospheric and Climate Science at ETH Zurich provided me with invaluable data analysis tools and an in-depth understanding of the complexities within our climate system. 
 
 As part of my PhD and a ship-based research effort, I envision myself stepping onto the Antarctic continent.
 
