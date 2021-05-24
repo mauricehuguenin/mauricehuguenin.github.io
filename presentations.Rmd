@@ -9,7 +9,7 @@ output:
 
 ## Oral Presentations
 
-2021, May 19-30. Model Estimated Ocean Heat Content Changes since 1972, RV Investigator Science Talk, 154.313°E, 27.237°S, Australia 
+2021, May 24. Model Estimated Ocean Heat Content Changes since 1972, RV Investigator Science Talk, 154.313°E, 27.237°S, Australia 
 
 2021, April 19-30. Model Estimated Ocean Heat Uptake, Transport and Storage Rates Over 1972-2017, virtual European Geophysical Union Annual Meeting, Vienna, Austria, online [abstract](https://meetingorganizer.copernicus.org/EGU21/EGU21-8096.html)
 
