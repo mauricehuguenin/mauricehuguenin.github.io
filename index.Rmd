@@ -8,7 +8,7 @@
 <br/><br/>
 <img src="images/maurice_1.jpg" style="width:20%; border:10px solid; margin-right: 20px" align="left">
 
-I am a climate science PhD student and investigate recent ocean heat content changes using a global climate model. Ocean heat content is a critical metric in our climate system as the ocean absorbed over 90% of the excess energy since 1970. However, this leads to rising sea levels, stress for marine habitats and changes the occurrence of extreme weather events. 
+I am a climate science PhD candidate and investigate recent ocean heat content changes using a global climate model. Ocean heat content is a critical metric in our climate system as the ocean absorbed over 90% of the excess energy since 1970. However, this leads to rising sea levels, stress for marine habitats and changes the occurrence of extreme weather events. 
 
 Both my Bachelor's in Earth Sciences and Master's in Atmospheric and Climate Science at ETH Zurich in Switzerland provided me with invaluable data analysis tools and an in-depth understanding of the complexities within our climate system. 
 
