@@ -3,12 +3,10 @@ output_dir: "."
 navbar:
   title: "Maurice F. Huguenin"
   left:
-    - text: "Publications"
+    - text: "Publications & Media"
       href: publications.html
     - text: "Presentations"
       href: presentations.html
-    - text: "Software"
-      href: software.html
     - text: "ETH Studium"
       href: eth_studium.html
     - text: "Photography"
