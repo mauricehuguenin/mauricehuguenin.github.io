@@ -29,6 +29,13 @@ Huguenin, M. F., 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Vol
 Huguenin, M. F., 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016**. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf), [propsal](bsc_thesis_proposal_maurice_huguenin_2016.pdf).
 
 
+## Media
+
+- CLEX Newsletter: **Towards an increased understanding of the East Australian Current – My voyage abord RV Investigator** [link](https://climateextremes.org.au/towards-an-increased-understanding-of-the-east-australian-current-my-voyage-abord-rv-investigator/)
+- Dorfzeitung Binde-Strich: **Ein Pfungemer auf hoher See** [pdf](media/BindeStrich_08_21_Seite21.pdf) 
+- UNSW Newsroom: **Four weeks voyage yields secrets to changing oceans** [link](https://newsroom.unsw.edu.au/news/science-tech/four-week-voyage-yields-secrets-changing-oceans)
+- CLEX research brief: **Vertical Mixing and Air-Sea Heat Fluxes Play a Key Role in Driving ENSO-related Ocean Heat Content Changes** [pdf](media/CLEX_ResearchBrief_ENSO_WWV_2020.pdf)
+- CLEX research brief: **Current climate models do not project a more persistent Central European weather** [link](https://climateextremes.org.au/research-brief-current-climate-models-do-not-project-a-more-persistent-central-european-circulation/)
 
 <!-- A full list of publications is available at the above Google scholar link. -->
 
