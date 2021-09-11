@@ -12,6 +12,7 @@ navbar:
     - text: "Photography"
       href: photography.html
 
+
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
