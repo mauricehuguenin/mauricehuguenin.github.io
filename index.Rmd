@@ -1,6 +1,7 @@
 ---
 title: ""
 ---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <br/><br/>
 <link rel="stylesheet" href="styles.css" type="text/css">
 <img src="photography/20190609-P6090142.jpg" style="width:100%; margin-right: 20px" align="center">
