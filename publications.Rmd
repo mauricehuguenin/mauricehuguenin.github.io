@@ -1,10 +1,11 @@
 ---
-title: ""
+title: "Publications"
 output:
   html_document: 
     toc: true
     toc_float: true
 ---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <!-- Specifics for including altmetric on the homepage -->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
