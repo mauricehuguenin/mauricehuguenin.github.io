@@ -1,7 +1,7 @@
 name: "Maurice F. Huguenin"
 output_dir: "."
 navbar:
-  title: "<div><img id=\"logo\" style=\"float:left;height:30px;text-align=center\" src=\"favicon.ico\"/>&nbspMaurice F. Huguenin</div>" 
+  title: "<div><img id=\"logo\" style=\"float:left;height:25px;text-align=center\" src=\"favicon.ico\"/>&nbspMaurice F. Huguenin</div>" 
   left:
     - text: "Publications & Media"
       href: publications.html
