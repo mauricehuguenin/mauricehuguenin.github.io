@@ -1,5 +1,5 @@
 ---
-title: "Photography"
+pagetitle: "Photography"
 output:
   html_document: 
     toc: true
