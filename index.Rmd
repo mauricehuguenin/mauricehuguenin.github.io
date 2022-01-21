@@ -1,5 +1,5 @@
 ---
-pagetitle: "Index"
+pagetitle: "Index - Maurice F. Huguenin"
 ---
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <br/><br/>
