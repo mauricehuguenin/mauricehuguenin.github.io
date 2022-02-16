@@ -1,5 +1,5 @@
 ---
-pagetitle: "Index - Maurice F. Huguenin"
+pagetitle: "Maurice F. Huguenin"
 ---
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <br/><br/>
@@ -12,7 +12,7 @@ pagetitle: "Index - Maurice F. Huguenin"
 
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-I am a climate science PhD candidate and I investigate recent ocean heat content changes with global climate models and observations.
+I am a climate science PhD candidate at the University of New South Wales and I investigate recent ocean heat content changes with global climate models and observations.
 
 Since the 1970s, the ocean has absorbed over 90% of the excess energy in our climate system. Investigating where, how and why the ocean is warming is critical to prepare for its impacts. These include sea level rise, increased stress for marine ecosystems and changes in the frequency of extreme weather events.
 

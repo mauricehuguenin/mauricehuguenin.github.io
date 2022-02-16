@@ -42,10 +42,12 @@ There are many ways to reduce the pain while continuing work on a computer. Here
 - Using the [Wellnomics](https://wellnomics.com/) ergonomcis software to take regular breaks from computer work
 - My dad's symptoms got really bad and he started to use a voice recognition software to dictate texts and emails
 
-## To Do
+## To Do ETH+UNSW Studium
 
 - Post summaries from my ETH lectures
-- Include organisation and planning tips
+- Include organisation and planning tips (one powerpoint slide per paper, journaling, A5 paper list)
+- Post HBR summary docs
+- Include LaTeX report template with link to overleaf
 - Complete Paleoclimate Proxy Document
 - Write section on Repetitive Strain Injury (RSI), wacom tablet and ergonomics
 - Upload LaTeX proposal and thesis templates with comments
