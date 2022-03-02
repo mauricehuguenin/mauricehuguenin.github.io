@@ -22,6 +22,8 @@ navbar:
       href: https://twitter.com/MauriceHuguenin
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/maurice-huguenin-997b25166/
+    - icon: fa-solid fa-chess
+      href: https://www.chess.com/member/mauricehuguenin
   
 
 output:

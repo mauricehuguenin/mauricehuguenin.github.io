@@ -1,0 +1,43 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Tools I use in my research:
+
+* bash (linux console for file handling and archiving)
+* emacs (basic text editor)
+* git (public version control software)
+* python (data analysis tool)
+    + spyder (graphical user interface)
+    + jupyter (notebook style user interface)
+    + xarray (generic multi-dimensional labelled arrays)
+    + cartopy (geographic map projections)
+    + matplotlib (static plots)
+    + numpy (numerical arrays)
+    + netCDF4 (read/write netCDF files)
+    + cdo (climate data operators for netcdf data)
+* LaTeX (document preparation system)
+* MATLAB (data analysis tool)
+    + netCDF/OPeNDAP (CSIRO's interface for importing netcdf files)
+    + cbrewer (custom colour maps)
+    + m_map (map visualization)
+    + TEOS-10 (oceanographic toolbox)
+* Microsoft Office 
+* R (data analysis tool)
+    + ggplot (data visualisation package)
+    + pkgdown (website creation package)
+
+
+__To Do:__
+
+- Add or link ACCESS-OM2 & Bash Tips and Tricks .html file
+- add my own 'A short introduction to LaTeX' 
+- Include github python tutorials here
+- How I structure my scripts
+- emacs shortcuts (Esc & > = go to end of page, etc.)
+- bash tips and tricks (e.g. how to setup alias)
