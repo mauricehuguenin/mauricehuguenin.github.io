@@ -28,7 +28,6 @@ output:
 </script>
 --->
 
-
 ## Blue Hour Tips
 
 The Blue Hour is the period of the day before or after sunset when the sky is still blue. Usually it lasts about 30 minutes.

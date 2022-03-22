@@ -9,9 +9,11 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Poster Presentations
-2021, November 16-17. Identifying the drivers and regions controlling global ocean heat uptake over the last 50 years, CLEX mini Annual Workshop, online, Australia
+2022, February 08-17. Drivers and distribution of global ocean heat uptake over the last half century, International Conference of Southern Hemispheric Meteorology and Oceanography, Christchurch, New Zealand, online [pdf](presentations/poster_icshmo_conference_maurice_huguenin_2022.pdf)
 
-2020, November 16-19. Southern Ocean Dominates Anthropogenic Ocean Heat Uptake & Storage, CLEX Annual Workshop, online, Australia
+2021, November 16-17. Identifying the drivers and regions controlling global ocean heat uptake over the last 50 years, CLEX mini Annual Workshop, Australia, online
+
+2020, November 16-19. Southern Ocean Dominates Anthropogenic Ocean Heat Uptake & Storage, CLEX Annual Workshop, Australia, online
 
 2020, February 16-21. Diabatic Contribution to Ocean Heat Variability during ENSO Events, Ocean Sciences Meeting, San Diego, California, United States of America [pdf](presentations/poster_ocean_sciences_conference_maurice_huguenin_2020.pdf)
 
@@ -24,6 +26,8 @@ output:
 2016, June 13. Ocean Heat Uptake and Implications on Sea Level Rise, Bachelor Seminar, ETH Zurich, Switzerland [pdf](presentations/poster_bsc_seminar_maurice_huguenin_2016.pdf)
 
 ## Oral Presentations
+2022, February 16-21. Drivers and distribution of global ocean heat uptake over the last half century, Ocean Sciences Meeting, Hawaii, United States, online
+
 
 2021, August 05. Model-estimated ocean heat uptake, transport and storage rates over 1972-2017, COSIMA Meeting, UNSW Sydney, Australia, online
 
