@@ -14,7 +14,7 @@ pagetitle: "Maurice F. Huguenin"
 
 <font size="4">**About me:**</font> 
 
-Climate science PhD candidate at the [University of New South Wales](https://www.unsw.edu.au/)
+Climate science PhD candidate at the [University of New South Wales](https://www.unsw.edu.au/research/ccrc)
 
 My education:\
 &ensp;- Doctor of Science UNSW in Climate Science (in progress)\
