@@ -8,19 +8,24 @@ pagetitle: "Maurice F. Huguenin"
 <div style="text-align: right">Mindil Beach, Darwin, NT, Australia</div>
 
 <br/><br/>
-<img src="images/maurice_1.jpg" style="width:20%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/maurice_1.jpg" style="width:20%; border:10px solid; margin-right: 30px" align="left">
 
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-I am a climate science PhD candidate at the University of New South Wales and I investigate recent ocean heat content changes with global climate models and observations.
+<font size="4">**About me:**</font> 
 
-Since the 1970s, the ocean has absorbed over 90% of the excess energy in our climate system. Investigating where, how and why the ocean is warming is critical to prepare for its impacts. These include sea level rise, increased stress for marine ecosystems and changes in the frequency of extreme weather events.
+Climate science PhD candidate at the [University of New South Wales](https://www.unsw.edu.au/)
 
-I completed my Bachelor's in Earth Sciences and Master's in Atmospheric and Climate Science at ETH Zurich in Switzerland. This education provided me with invaluable data analysis tools and an in-depth understanding of the complexities within our climate system. 
+My education:\
+&ensp;- Doctor of Science UNSW in Climate Science (in progress)\
+&ensp;- Master of Science ETH in Atmospheric and Climate Science (2018)\
+&ensp;- Bachelor of Science ETH in Earth Sciences (2014)\
 
-As part of my PhD and a ship-based research effort, I envision myself stepping onto Antarctica.
+My research interests:\
+Large-scale physical oceanography, Ocean-sea ice modelling, Internal climate variability and its atmospheric teleconnections, ocean heat content, Central European atmospheric circulation
 
-
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$The next goal:\
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$Complete my PhD and step onto Antarctica as part of a ship-based research effort 
 <!--- My full CV is available [here](files/CV_Maurice_Huguenin_20190810.pdf). --->
 
 <!--- Thanks to Emily Zabor (https://github.com/zabore) for allowing me to use her code. --->
