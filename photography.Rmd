@@ -8,34 +8,16 @@ output:
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<!---
-## Photos from my PhD
 
-<div id="adobe-dc-view" style="width: 100%;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-<script type="text/javascript">
-  document.addEventListener("adobe_dc_view_sdk.ready", function(){
-    var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
-    adobeDCView.previewFile({
-      content:{ location: 
-        { url: "https://github.com/mauricehuguenin/mauricehuguenin.github.io/blob/master/photography/Advance_Australia_Part_I.pdf"}},
-      metaData:{fileName: "Advance_Australia_Part_I.pdf"}
-    },
-    {
-      embedMode: "SIZED_CONTAINER"
-    });
-  });
-</script>
---->
 
 ## Blue Hour Tips
 
-The Blue Hour is the period of the day before or after sunset when the sky is still blue. Usually it lasts about 30 minutes.
+The Blue Hour is the period of the day before or after sunset when the sky is still blue. Usually it lasts about 30 minutes. Key is to have an even surface (or tripod) to stabilise the camera as exposure times of more than one second are necessary.
 
 <img src="photography/20180711-P7117094.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
 Blue Hour at Marina Bay, Singapore
 
-* [https://www.bluehoursite.com/](https://www.bluehoursite.com/) is very helpful in determining when the Blue Hour happens at your location.
+* [https://www.bluehoursite.com/](https://www.bluehoursite.com/) is helpful in determining when the Blue Hour happens at your location.
 
 * Camera Settings: Aperature priority (A) with f4.5 or higher, ISO 200+, Manual focus (MF) and 2 sec. timer with Anti-Shock activated
 

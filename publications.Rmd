@@ -14,6 +14,10 @@ output:
 I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&user=UI4wCAEAAAAJ).
 
 ## Peer-Reviewed Articles
+
+<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
+Huguenin, M. F., Holmes, R. M., & England, M. H. (2022). **Drivers and distribution of global ocean heat uptake over the last half century**. *Nature Communications*. accepted.
+
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
 Huguenin, M. F., Holmes, R. M., & England, M. H. (2020). **Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events**. *Journal of Climate*. 33, 9945–9964. [doi.org/10.1175/JCLI-D-20-0198.1](https://doi.org/10.1175/JCLI-D-20-0198.1)
 

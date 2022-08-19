@@ -9,56 +9,56 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Poster Presentations
-2022, July 04-05. Subsurface warming of West Antarctic coastal waters linked to ENSO events, Multi-scale dynamics of the Southern Ocean Workshop, Canberra, Australia 
+2022, July 04-05. Subsurface warming of West Antarctic coastal waters linked to ENSO events, **Multi-scale dynamics of the Southern Ocean Workshop**, Canberra, Australia 
 
-2022, February 08-17. Drivers and distribution of global ocean heat uptake over the last half century, International Conference of Southern Hemispheric Meteorology and Oceanography, Christchurch, New Zealand, online [pdf](presentations/poster_icshmo_conference_maurice_huguenin_2022.pdf)
+2022, February 08-17. Drivers and distribution of global ocean heat uptake over the last half century, **International Conference of Southern Hemispheric Meteorology and Oceanography**, Christchurch, New Zealand, online [pdf](presentations/poster_icshmo_conference_maurice_huguenin_2022.pdf)
 
-2021, November 16-17. Identifying the drivers and regions controlling global ocean heat uptake over the last 50 years, CLEX mini Annual Workshop, Australia, online
+2021, November 16-17. Identifying the drivers and regions controlling global ocean heat uptake over the last 50 years, **CLEX mini Annual Workshop**, Australia, online
 
-2020, November 16-19. Southern Ocean Dominates Anthropogenic Ocean Heat Uptake & Storage, CLEX Annual Workshop, Australia, online
+2020, November 16-19. Southern Ocean Dominates Anthropogenic Ocean Heat Uptake & Storage, **CLEX Annual Workshop**, Australia, online
 
-2020, February 16-21. Diabatic Contribution to Ocean Heat Variability during ENSO Events, Ocean Sciences Meeting, San Diego, California, United States of America [pdf](presentations/poster_ocean_sciences_conference_maurice_huguenin_2020.pdf)
+2020, February 16-21. Diabatic Contribution to Ocean Heat Variability during ENSO Events, **Ocean Sciences Meeting**, San Diego, California, United States of America [pdf](presentations/poster_ocean_sciences_conference_maurice_huguenin_2020.pdf)
 
-2019, November 19-22. Discharge and Recharge of Ocean Heat during ENSO Events, CLEX Annual Workshop, Hobart, Tasmania, Australia [pdf](presentations/poster_clex_workshop_maurice_huguenin_2019.pdf), [pptx](presentations/poster_clex_workshop_maurice_huguenin_2019.pptx)
+2019, November 19-22. Discharge and Recharge of Ocean Heat during ENSO Events, **CLEX Annual Workshop**, Hobart, Tasmania, Australia [pdf](presentations/poster_clex_workshop_maurice_huguenin_2019.pdf), [pptx](presentations/poster_clex_workshop_maurice_huguenin_2019.pptx)
 
-2019, June 11-14. Diabatic Contributions to Warm Water Volume Variability During ENSO Events, Australian Meteorological Society Annual Meeting, Darwin, Northern Territory, Australia [pdf](presentations/poster_amos_conference_maurice_huguenin_2019.pdf)
+2019, June 11-14. Diabatic Contributions to Warm Water Volume Variability During ENSO Events, **Australian Meteorological Society Annual Meeting**, Darwin, Northern Territory, Australia [pdf](presentations/poster_amos_conference_maurice_huguenin_2019.pdf)
 
-2019, April 09-12. Changes in the Frequency and Persistence of Central European Circulation Types, European Geophysical Union Annual Meeting, Vienna, Austria [pdf](presentations/poster_egu_conference_maurice_huguenin_2019.pdf), [pptx](presentations/poster_egu_conference_maurice_huguenin_2019.pptx)
+2019, April 09-12. Changes in the Frequency and Persistence of Central European Circulation Types, **European Geophysical Union Annual Meeting**, Vienna, Austria [pdf](presentations/poster_egu_conference_maurice_huguenin_2019.pdf), [pptx](presentations/poster_egu_conference_maurice_huguenin_2019.pptx)
 
-2016, June 13. Ocean Heat Uptake and Implications on Sea Level Rise, Bachelor Seminar, ETH Zurich, Switzerland [pdf](presentations/poster_bsc_seminar_maurice_huguenin_2016.pdf)
+2016, June 13. Ocean Heat Uptake and Implications on Sea Level Rise, **Bachelor's Seminar**, ETH Zurich, Switzerland [pdf](presentations/poster_bsc_seminar_maurice_huguenin_2016.pdf)
 
 ## Oral Presentations
-2022, May 23-28. Drivers and distribution of global ocean heat uptake over the last half century, European Geophysical Union Annual Meeting, Vienna, Austria
+2022, May 23-28. Drivers and distribution of global ocean heat uptake over the last half century, **European Geophysical Union Annual Meeting**, Vienna, Austria
 
-2022, May 18-20. Subsurface warming of West Antarctic coastal waters linked to ENSO events, Gerringong GFD Retreat, Gerringong, Australia
+2022, May 18-20. Subsurface warming of West Antarctic coastal waters linked to ENSO events, **Gerringong GFD Retreat**, Gerringong, Australia
 
-2022, February 16-21. Drivers and distribution of global ocean heat uptake over the last half century, Ocean Sciences Meeting, Hawaii, United States, online
+2022, February 16-21. Drivers and distribution of global ocean heat uptake over the last half century, **Ocean Sciences Meeting**, Hawaii, United States, online
 
-2021, August 05. Model-estimated ocean heat uptake, transport and storage rates over 1972-2017, COSIMA Meeting, UNSW Sydney, Australia, online
+2021, August 05. Model-estimated ocean heat uptake, transport and storage rates over 1972-2017, **COSIMA Meeting**, UNSW Sydney, Australia, online
 
-2021, July 20. Model-estimated ocean heat uptake, transport and storage rates over 1972-2017, UNSW Maths Group Meeting, UNSW Sydney, Australia, online
+2021, July 20. Model-estimated ocean heat uptake, transport and storage rates over 1972-2017, **UNSW Maths Group Meeting**, UNSW Sydney, Australia, online
 
-2021, May 24. Model Estimated Ocean Heat Content Changes since 1972, RV Investigator Science Talk, 154.313°E, 27.237°S, Australia 
+2021, May 24. Model Estimated Ocean Heat Content Changes since 1972, **RV Investigator Science Talk**, 154.313°E, 27.237°S, Australia 
 
-2021, April 19-30. Model Estimated Ocean Heat Uptake, Transport and Storage Rates Over 1972-2017, virtual European Geophysical Union Annual Meeting, Vienna, Austria, online [abstract](https://meetingorganizer.copernicus.org/EGU21/EGU21-8096.html)
+2021, April 19-30. Model Estimated Ocean Heat Uptake, Transport and Storage Rates Over 1972-2017, **European Geophysical Union Annual Meeting**, Vienna, Austria, online [abstract](https://meetingorganizer.copernicus.org/EGU21/EGU21-8096.html)
 
-2021, April 21. Model Estimated Ocean Heat Uptake, Transport and Storage Rates Over 1972-2017, Formal PhD Review, UNSW Sydney, Australia
+2021, April 21. Model Estimated Ocean Heat Uptake, Transport and Storage Rates Over 1972-2017, **Formal PhD Review**, UNSW Sydney, Australia
 
-2021, February 08-12. Recent Trajectory of Ocean Heat Content Estimated From New Ocean-Sea Ice Model Simulations, Australian Meteorological Society Annual Meeting, Australia, online [video](https://vimeo.com/512306675#t=4570s)
+2021, February 08-12. Recent Trajectory of Ocean Heat Content Estimated From New Ocean-Sea Ice Model Simulations, **Australian Meteorological Society Annual Meeting**, Australia, online [video](https://vimeo.com/512306675#t=4570s)
 
-2020, December 01-17. Key Role of Diabatic Processes in Changing Warm Water Volume Variability during ENSO Events, American Geophysical Union, USA, online
+2020, December 01-17. Key Role of Diabatic Processes in Changing Warm Water Volume Variability during ENSO Events, **American Geophysical Union**, USA, online
 
-2020, November 17. Key Role of Diabatic Processes in Changing Warm Water Volume Variability during ENSO Events, College of Oceanic and Atmospheric Sciences Seminar, Oregon State University, USA, online
+2020, November 17. Key Role of Diabatic Processes in Changing Warm Water Volume Variability during ENSO Events, **College of Oceanic and Atmospheric Sciences Seminar**, Oregon State University, USA, online
 
-2020, November 03-06. Investigating the Role of the Ocean Basins in Anthropogenic Ocean Heat Uptake and Redistribution, Workshop on Ocean Warming and Sea Level Rise, UNSW Sydney, Australia, online
+2020, November 03-06. Investigating the Role of the Ocean Basins in Anthropogenic Ocean Heat Uptake and Redistribution, **Workshop on Ocean Warming and Sea Level Rise**, UNSW Sydney, Australia, online
 
-2020, May 28. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, COSIMA e-Workshop, Australia, online
+2020, May 28. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, **COSIMA e-Workshop**, Australia, online
 
-2020, May 04. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, PhD Confirmation Presentation, UNSW Sydney, Australia, online
+2020, May 04. The Role of Diabatic Processes in Driving Ocean Heat Content Changes, **PhD Confirmation Presentation**, UNSW Sydney, Australia, online
 
-2019, November 02-03. Diabatic Contributions to Warm Water Volume Variability During ENSO Events, Workshop on Ocean Warming and Sea Level Rise, UNSW Sydney, Australia
+2019, November 02-03. Diabatic Contributions to Warm Water Volume Variability During ENSO Events, **Workshop on Ocean Warming and Sea Level Rise**, UNSW Sydney, Australia
 
-2019, June 11-14. Diabatic Contributions to Warm Water Volume Variability During ENSO Events, Australian Meteorological Society Annual Meeting, Darwin, Northern Territory, Australia [pdf](presentations/msc_thesis_presentation_maurice_huguenin_2019.pdf)
+2019, June 11-14. Diabatic Contributions to Warm Water Volume Variability During ENSO Events, **Australian Meteorological Society Annual Meeting**, Darwin, Northern Territory, Australia [pdf](presentations/msc_thesis_presentation_maurice_huguenin_2019.pdf)
 
-2019, April 17. Changes in the Frequency and Persistence of Central European Circulation Types, MeteoSwiss & ETH Seminars, Zurich, Switzerland [pdf](presentations/meteoswiss_eth_presentation_maurice_huguenin_2019.pdf)
+2019, April 17. Changes in the Frequency and Persistence of Central European Circulation Types, **MeteoSwiss & ETH Seminars**, Zurich, Switzerland [pdf](presentations/meteoswiss_eth_presentation_maurice_huguenin_2019.pdf)
 

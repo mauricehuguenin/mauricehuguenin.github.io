@@ -13,12 +13,22 @@
 
 <title>Photography</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
@@ -28,12 +38,16 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -46,32 +60,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -82,10 +72,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -102,40 +88,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -163,7 +125,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -175,7 +137,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -185,11 +147,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -201,7 +180,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -327,7 +305,7 @@ div.tocify {
 
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
+<div class="row">
 <div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
@@ -341,7 +319,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -393,7 +371,7 @@ div.tocify {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -401,42 +379,38 @@ div.tocify {
 </div>
 
 
-<p><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> <link rel="stylesheet" href="styles.css" type="text/css"></p>
-<!---
-## Photos from my PhD
-
-<div id="adobe-dc-view" style="width: 100%;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-<script type="text/javascript">
-  document.addEventListener("adobe_dc_view_sdk.ready", function(){
-    var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
-    adobeDCView.previewFile({
-      content:{ location: 
-        { url: "https://github.com/mauricehuguenin/mauricehuguenin.github.io/blob/master/photography/Advance_Australia_Part_I.pdf"}},
-      metaData:{fileName: "Advance_Australia_Part_I.pdf"}
-    },
-    {
-      embedMode: "SIZED_CONTAINER"
-    });
-  });
-</script>
---->
+<p><link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.css" type="text/css"></p>
 <div id="blue-hour-tips" class="section level2">
 <h2>Blue Hour Tips</h2>
-<p>The Blue Hour is the period of the day before or after sunset when the sky is still blue. Usually it lasts about 30 minutes.</p>
-<p><img src="photography/20180711-P7117094.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center"> Blue Hour at Marina Bay, Singapore</p>
+<p>The Blue Hour is the period of the day before or after sunset when
+the sky is still blue. Usually it lasts about 30 minutes. Key is to have
+an even surface (or tripod) to stabilise the camera as exposure times of
+more than one second are necessary.</p>
+<p><img src="photography/20180711-P7117094.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Blue Hour at Marina Bay, Singapore</p>
 <ul>
-<li><p><a href="https://www.bluehoursite.com/">https://www.bluehoursite.com/</a> is very helpful in determining when the Blue Hour happens at your location.</p></li>
-<li><p>Camera Settings: Aperature priority (A) with f4.5 or higher, ISO 200+, Manual focus (MF) and 2 sec. timer with Anti-Shock activated</p></li>
+<li><p><a
+href="https://www.bluehoursite.com/">https://www.bluehoursite.com/</a>
+is helpful in determining when the Blue Hour happens at your
+location.</p></li>
+<li><p>Camera Settings: Aperature priority (A) with f4.5 or higher, ISO
+200+, Manual focus (MF) and 2 sec. timer with Anti-Shock
+activated</p></li>
 </ul>
 </div>
 <div id="top-5-black-and-white-sydney" class="section level2">
 <h2>Top 5 Black and White Sydney</h2>
-<p><img src="photography/20171220-PC203292.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center"> Airbus A340 at Kingsford Smith Airport</p>
-<p><img src="photography/20180325-P3255583.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center"> Australian Magpie</p>
-<p><img src="photography/20180411-P4115700.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center"> Carnival Spirit at Circular Quay</p>
-<p><img src="photography/20180413-P4135851.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center"> Saltwater Crocodile</p>
-<p><img src="photography/20180416-P4165947.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center"> Opera House and Harbor Bridge</p>
+<p><img src="photography/20171220-PC203292.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Airbus A340 at Kingsford Smith Airport</p>
+<p><img src="photography/20180325-P3255583.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Australian Magpie</p>
+<p><img src="photography/20180411-P4115700.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Carnival Spirit at Circular Quay</p>
+<p><img src="photography/20180413-P4135851.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Saltwater Crocodile</p>
+<p><img src="photography/20180416-P4165947.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
+Opera House and Harbor Bridge</p>
 <p>… many more to come!</p>
 </div>
 
@@ -451,7 +425,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -469,7 +443,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
@@ -478,6 +452,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
@@ -490,7 +467,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
