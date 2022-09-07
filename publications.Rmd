@@ -16,27 +16,26 @@ I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&
 ## Peer-Reviewed Articles
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-Huguenin, M. F., Holmes, R. M., & England, M. H. (2022). **Drivers and distribution of global ocean heat uptake over the last half century**. *Nature Communications*. accepted.
+- Huguenin, M. F., Holmes, R. M., & England, M. H. (2022). **Drivers and distribution of global ocean heat uptake over the last half century**. *Nature Communications*. [doi.org/10.1038/s41467-022-32540-5](https://doi.org/10.1038/s41467-022-32540-5)
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-Huguenin, M. F., Holmes, R. M., & England, M. H. (2020). **Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events**. *Journal of Climate*. 33, 9945–9964. [doi.org/10.1175/JCLI-D-20-0198.1](https://doi.org/10.1175/JCLI-D-20-0198.1)
+- Huguenin, M. F., Holmes, R. M., & England, M. H. (2020). **Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events**. *Journal of Climate*. 33, 9945–9964. [doi.org/10.1175/JCLI-D-20-0198.1](https://doi.org/10.1175/JCLI-D-20-0198.1)
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-Huguenin, M. F., Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., & Knutti, R. (2020). **Lack of Change in the Projected Frequency and Persistence of Atmospheric Circulation Types Over Central Europe**. *Geophysical Research Letters*, 47. [doi.org/10.1029/2019GL086132](https://doi.org/10.1029/2019GL086132)
+- Huguenin, M. F., Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., & Knutti, R. (2020). **Lack of Change in the Projected Frequency and Persistence of Atmospheric Circulation Types Over Central Europe**. *Geophysical Research Letters*, 47. [doi.org/10.1029/2019GL086132](https://doi.org/10.1029/2019GL086132)
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1175/BAMS-D-18-0057.1" style="float:right;"></div> -->
-Santoso, A., Hendon, H., Watkins, A., Power, S., Dommenget, D., England, M. H., Frankcombe, L., Holbrook, N. J., Holmes, R. M., Hope, P., Lim, E., Luo, J., McGregor, S., Neske, S., Nguyen, H., Pepler, A., Rashid, H., Gupta, A. S., Taschetto, A. S., Wang, G., Abellán, E., Sullivan, A., Huguenin, M. F., Gamble, F. & Delage, F. (2019). **Dynamics and Predictability of El Niño-Southern Oscillation: An Australian Perspective on Progress and Challenges**. *Bulletin of the American Meteorological Society*, 100, 403-420. [doi.org/10.1175/BAMS-D-18-0057.1](https://doi.org/10.1175/BAMS-D-18-0057.1)
+- Santoso, A., Hendon, H., Watkins, A., Power, S., Dommenget, D., England, M. H., Frankcombe, L., Holbrook, N. J., Holmes, R. M., Hope, P., Lim, E., Luo, J., McGregor, S., Neske, S., Nguyen, H., Pepler, A., Rashid, H., Gupta, A. S., Taschetto, A. S., Wang, G., Abellán, E., Sullivan, A., Huguenin, M. F., Gamble, F. & Delage, F. (2019). **Dynamics and Predictability of El Niño-Southern Oscillation: An Australian Perspective on Progress and Challenges**. *Bulletin of the American Meteorological Society*, 100, 403-420. [doi.org/10.1175/BAMS-D-18-0057.1](https://doi.org/10.1175/BAMS-D-18-0057.1)
 
 
 ## Theses
 
-Huguenin, M. F., 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events**. Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/msc_thesis_maurice_huguenin_2018.pdf), [proposal](files/msc_thesis_proposal_maurice_huguenin_2018.pdf).
+- Huguenin, M. F., 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events**. Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/msc_thesis_maurice_huguenin_2018.pdf), [proposal](files/msc_thesis_proposal_maurice_huguenin_2018.pdf)
 
-Huguenin, M. F., 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016**. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf), [propsal](bsc_thesis_proposal_maurice_huguenin_2016.pdf).
+- Huguenin, M. F., 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016**. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf), [propsal](bsc_thesis_proposal_maurice_huguenin_2016.pdf)
 
 
 ## Media
-
 - CLEX Newsletter: **Towards an increased understanding of the East Australian Current – My voyage abord RV Investigator** [link](https://climateextremes.org.au/towards-an-increased-understanding-of-the-east-australian-current-my-voyage-abord-rv-investigator/)
 - Dorfzeitung Binde-Strich: **Ein Pfungemer auf hoher See** [pdf](media/BindeStrich_08_21_Seite21.pdf) 
 - UNSW Newsroom: **Four weeks voyage yields secrets to changing oceans** [link](https://newsroom.unsw.edu.au/news/science-tech/four-week-voyage-yields-secrets-changing-oceans)
