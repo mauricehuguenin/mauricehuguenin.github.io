@@ -28,7 +28,3 @@ Large-scale physical oceanography, ocean-sea ice modelling, internal climate var
 <!--- My full CV is available [here](files/CV_Maurice_Huguenin_20190810.pdf). --->
 
 <!--- Thanks to Emily Zabor (https://github.com/zabore) for allowing me to use her code. --->
-
-
-<br/><br/><br/><br/><br/><br/>
-*I pay my respect to the Traditional Owners who have cared for this land, sea and water that I live and work on across Australia. I acknowledge that this land was stolen from them, and that sovereignty has never been ceded. There can be no climate justice without justice for First Nations people.*
