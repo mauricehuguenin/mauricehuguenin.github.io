@@ -1,5 +1,5 @@
 ---
-pagetitle: "ETH Studium"
+pagetitle: "ETHZ Studies"
 output:
   html_document: 
     toc: true
@@ -25,7 +25,7 @@ output:
 - Climate History and Paleontology: [Catalogue of Questions](eth_studium/climate_history_catalogue_questions_maurice_huguenin_2016.pdf)
 
 
-## Stundenplan
+## Timetable
 <img src="images/stundenplan_msc_eth.png" style="width:100%" align="center">
 <div style="text-align: right">Right-click & view image for fullscreen</div>
 
@@ -45,7 +45,7 @@ There are many ways to reduce the pain while continuing work on a computer. Here
 <!---- 
 ## To Do ETH+UNSW Studium
 - Post summaries from my ETH lectures
-Include organisation and planning tips (one .ppx slide per paper, journaling, A5 paper list, Success plan, reading papers about topics not closely related to PhD, ...)
+Include organisation and planning tips (one .ppx slide per paper, journaling, A5 paper list, Success plan, reading papers about topics not closely related to PhD (Vikings in NA, rabbit travels, sea ice bridge St. Lawrence, dinosaur extinction), ...)
 - Post HBR summary docs
 - Include LaTeX report template with link to overleaf
 - Complete Paleoclimate Proxy Document
