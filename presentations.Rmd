@@ -9,6 +9,10 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Poster Presentations
+
+2022, November 03-04. Subsurface warming of West Antarctica during El Niño, **COSIMA meeting**, Hobart, Australia [pdf](presentations/poster_cosima_aceas_clex_maurice_huguenin_2022.pdf)
+
+
 2022, July 04-05. Subsurface warming of West Antarctic coastal waters linked to ENSO events, **Multi-scale dynamics of the Southern Ocean Workshop**, Canberra, Australia 
 
 2022, February 08-17. Drivers and distribution of global ocean heat uptake over the last half century, **International Conference of Southern Hemispheric Meteorology and Oceanography**, Christchurch, New Zealand, online [pdf](presentations/poster_icshmo_conference_maurice_huguenin_2022.pdf)
