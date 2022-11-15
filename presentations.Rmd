@@ -9,6 +9,7 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Poster Presentations
+2022, November 15-17. Subsurface warming of West Antarctica during El Niño, **CLEX annual workshop**, Lorne, Australia [pdf](presentations/poster_cosima_aceas_clex_maurice_huguenin_2022.pdf)
 
 2022, November 07-11. Subsurface warming of West Antarctica during El Niño, **ACEAS research forum**, Hobart, Australia [pdf](presentations/poster_cosima_aceas_clex_maurice_huguenin_2022.pdf)
 
