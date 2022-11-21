@@ -14,9 +14,8 @@ pagetitle: "Maurice F. Huguenin"
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 **About me:**\
-&ensp;- Climate science PhD candidate at the [University of New South Wales](https://www.unsw.edu.au/research/ccrc)
-
-&ensp;- My [CV](files/cv_maurice_huguenin_20221121.pdf)
+&ensp;- Climate science PhD candidate at the [University of New South Wales](https://www.unsw.edu.au/research/ccrc)\
+&ensp;- My [CV](files/cv_maurice_huguenin_20221121.pdf)\
 
 **My education**:\
 &ensp;- Doctor of Science UNSW in Climate Science (in progress)\
