@@ -39,6 +39,8 @@ output:
 ## Oral Presentations
 2022, December 6. Understanding the Drivers of Interannual to Multi-decadal Global and Regional Ocean Temperature Change, **Scripps Institution of Oceanography**, La Jolla, California, USA
 
+2022, November 8. Subsurface warming of West Antarctica during El Niño, **ACEAS annual workshop**, Hobart, Tasmania, Australia
+
 2022, May 23-28. Drivers and distribution of global ocean heat uptake over the last half century, **European Geophysical Union Annual Meeting**, Vienna, Austria
 
 2022, May 18-20. Subsurface warming of West Antarctic coastal waters linked to ENSO events, **Gerringong GFD Retreat**, Gerringong, Australia
