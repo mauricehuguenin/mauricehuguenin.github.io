@@ -37,6 +37,8 @@ output:
 2016, June 13. Ocean Heat Uptake and Implications on Sea Level Rise, **Bachelor's Seminar**, ETH Zurich, Switzerland [pdf](presentations/poster_bsc_seminar_maurice_huguenin_2016.pdf)
 
 ## Oral Presentations
+2023, March 21. Subsurface warming of West Antarctic coastal waters during El Niño events, **University of Sydney Oceanography Workshop**, Sydney, New South Wales, Australia
+
 2022, December 6. Understanding the Drivers of Interannual to Multi-decadal Global and Regional Ocean Temperature Change, **Scripps Institution of Oceanography**, La Jolla, California, USA
 
 2022, November 8. Subsurface warming of West Antarctica during El Niño, **ACEAS annual workshop**, Hobart, Tasmania, Australia
