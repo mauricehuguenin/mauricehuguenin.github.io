@@ -14,11 +14,11 @@ pagetitle: "Maurice F. Huguenin"
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 <font size="4">**About me:**</font>\
-- Climate science PhD candidate at the [University of New South Wales](https://www.unsw.edu.au/research/ccrc)\
+- Climate science Postdoc at the [University of New South Wales](https://www.unsw.edu.au/research/ccrc)\
 - My [CV](files/CV_maurice_huguenin_february_2023.pdf)\
 
 **My education**:\
-- Doctor of Philosophy UNSW in Climate Science, Sydney, Australia (in progress)\
+- Doctor of Philosophy UNSW in Climate Science, Sydney, Australia (Thesis submitted May 2023)\
 - Master of Science ETH in Atmospheric and Climate Science, Zurich, Switzerland (2018)\
 - Bachelor of Science ETH in Earth Sciences, Zurich, Switzerland (2016)\
 
@@ -27,6 +27,7 @@ Large-scale physical oceanography, ocean-sea ice modelling, internal climate var
 
 <br/><br/>
 *I pay my respect to the Traditional Owners who have cared for this land, sea and water that I live and work on across Australia. I acknowledge that this land was stolen from them, and that sovereignty has never been ceded. There can be no climate justice without justice for First Nations people.*
+
 
 
 <!--- My full CV is available [here](files/CV_Maurice_Huguenin_20190810.pdf). --->
