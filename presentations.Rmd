@@ -9,6 +9,9 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Poster Presentations
+2023, September 4-8. Subsurface warming of West Antarctica during El Niño, **ACCESS-NRI and COSIMA workshops**, Canberra, Australia
+[pdf](presentations/poster_access_nri_and_cosima_workshops_maurice_huguenin_2023.pdf)
+
 2022, December 12-16. Subsurface warming of West Antarctica during El Niño, **AGU Fall Meeting**, Chicago, USA [pdf](presentations/poster_cosima_aceas_clex_agu_maurice_huguenin_2022.pdf)
 
 2022, November 15-17. Subsurface warming of West Antarctica during El Niño, **CLEX annual workshop**, Lorne, Australia [pdf](presentations/poster_cosima_aceas_clex_agu_maurice_huguenin_2022.pdf)
