@@ -14,8 +14,8 @@ pagetitle: "Maurice F. Huguenin"
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 <font size="4">**About me:**</font>\
-- Climate science Postdoc at the [University of New South Wales](https://www.unsw.edu.au/research/ccrc)\
-- My [CV](files/CV_maurice_huguenin_2023_december.pdf)\
+Climate science Postdoc at the [University of New South Wales](https://www.unsw.edu.au/research/cmsi)<br/>
+- My [CV](files/CV_maurice_huguenin_2024_januaryr.pdf)<br/>
 
 **My education**:\
 - Doctor of Philosophy UNSW in Climate Science, Sydney, Australia (2023)\
