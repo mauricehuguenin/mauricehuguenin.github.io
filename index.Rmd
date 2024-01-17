@@ -15,6 +15,7 @@ pagetitle: "Maurice F. Huguenin"
 
 <font size="4">**About me:**</font>\
 Climate science Postdoc at the [University of New South Wales](https://www.unsw.edu.au/research/cmsi)<br/>
+<!---  &nbsp;&nbsp;&nbsp;- [Australian Centre for Excellence in Antarctic Science](https://antarctica.org.au)<br/> --->
 - My [CV](files/CV_maurice_huguenin_2024_januaryr.pdf)<br/>
 
 **My education**:\
