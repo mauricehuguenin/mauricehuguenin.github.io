@@ -33,11 +33,12 @@ I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&
 - Huguenin, M. F., Holmes, R. M., Spence, P. & England, M. H. **Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation**. In review at *Geophysical Research Letters*.
 
 ## Theses
-- Huguenin, M. F., 2023. **Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability**. Doctoral Thesis, Climate Change Research Centre, UNSW Sydney, Sydney, Australia. [doi.org/10.26190/unsworks/25224](https://doi.org/10.26190/unsworks/25224).
+- Huguenin, M. F., 2023. **Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability**. Doctoral Thesis, Climate Change Research Centre, UNSW Sydney, Sydney, Australia. [doi.org/10.26190/unsworks/25224](https://doi.org/10.26190/unsworks/25224). [PhD thesis template PDF](files/PhD_Thesis_Template_20240122_1506.pdf), [PhD thesis template files](files/PhD_Thesis_Template_20240122_1504.rar).
 
 - Huguenin, M. F., 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events**. Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/msc_thesis_maurice_huguenin_2018.pdf).
 
 - Huguenin, M. F., 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016**. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf).
+
 
 
 ## Media
