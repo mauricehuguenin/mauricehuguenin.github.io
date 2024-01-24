@@ -16,7 +16,7 @@ pagetitle: "Maurice F. Huguenin"
 <font size="4">**About me:**</font>\
 **Postdoctoral research associate**<br/>
 - [Centre for Marine Science and Innovation](https://www.unsw.edu.au/research/cmsi), University of New South Wales, Sydney, Australia<br/>
-- [ARC Australian Centre for Excellence in Antarctic Science](https://antarctica.org.au), University of New South Wales, Sydney, Australia<br/>
+- [ARC Australian Centre for Excellence in Antarctic Science](https://antarctic.org.au), University of New South Wales, Sydney, Australia<br/>
 
 <!---  Climate science Postdoc at the [University of New South Wales](https://www.unsw.edu.au/research/cmsi)<br/> --->
 <!---  &nbsp;&nbsp;&nbsp;- [Australian Centre for Excellence in Antarctic Science](https://antarctica.org.au)<br/> --->
