@@ -11,6 +11,8 @@ navbar:
       href: eth_studium.html
     - text: "Photography"
       href: photography.html
+    - text: "ACCESS-OM2, Bash and Python Tips"
+      href: ACCESS-OM2_-_Bash_Tips_and_Tricks.html   
 
   right:
     - icon: fa-envelope fa-lg
