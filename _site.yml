@@ -21,7 +21,7 @@ navbar:
       href: https://twitter.com/MauriceHuguenin
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/maurice-huguenin-997b25166/
-    - icon: fa-brands fa-orcid
+    - icon: fa-brands fa-orcid fa-lg
       href: https://orcid.org/0000-0002-1476-0452
   
 
