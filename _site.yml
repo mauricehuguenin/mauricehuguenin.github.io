@@ -9,8 +9,6 @@ navbar:
       href: presentations.html
     - text: "ETHZ Studies"
       href: eth_studium.html
-    - text: "UNSW Studies"
-      href: unsw_studies.html
     - text: "Photography"
       href: photography.html
 
