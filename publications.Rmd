@@ -16,6 +16,9 @@ I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&
 ## Peer-Reviewed Articles
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
+5. Huguenin, M. F., Holmes, R. M., Spence, P. & England, M. H. **Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation**. Accepted at *Geophysical Research Letters*. [pdf](files/Huguenin_et_al_2024_ENSOAntarctica.pdf)
+
+<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
 4. Huguenin, M. F., Holmes, R. M., & England, M. H. (2022). **Drivers and distribution of global ocean heat uptake over the last half century**. *Nature Communications*. 13, 4921. [doi.org/10.1038/s41467-022-32540-5](https://doi.org/10.1038/s41467-022-32540-5).
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
@@ -26,11 +29,6 @@ I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1175/BAMS-D-18-0057.1" style="float:right;"></div> -->
 1. Santoso, A., Hendon, H., Watkins, A., Power, S., Dommenget, D., England, M. H., Frankcombe, L., Holbrook, N. J., Holmes, R. M., Hope, P., Lim, E., Luo, J., McGregor, S., Neske, S., Nguyen, H., Pepler, A., Rashid, H., Gupta, A. S., Taschetto, A. S., Wang, G., Abellán, E., Sullivan, A., Huguenin, M. F., Gamble, F. & Delage, F. (2019). **Dynamics and Predictability of El Niño-Southern Oscillation: An Australian Perspective on Progress and Challenges**. *Bulletin of the American Meteorological Society*, 100, 403-420. [doi.org/10.1175/BAMS-D-18-0057.1](https://doi.org/10.1175/BAMS-D-18-0057.1).
-
-## Articles submitted for publication
-
-<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-- Huguenin, M. F., Holmes, R. M., Spence, P. & England, M. H. **Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation**. In review at *Geophysical Research Letters*. [pdf](files/Huguenin_et_al_2024_ENSOAntarctica.pdf)
 
 ## Theses
 - Huguenin, M. F., 2023. **Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability**. Doctoral Thesis, Climate Change Research Centre, UNSW Sydney, Sydney, Australia. [doi.org/10.26190/unsworks/25224](https://doi.org/10.26190/unsworks/25224).

@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -29,14 +29,14 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -184,8 +184,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -193,16 +193,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -338,9 +331,6 @@ div.tocify {
   <a href="eth_studium.html">ETHZ Studies</a>
 </li>
 <li>
-  <a href="unsw_studies.html">UNSW Studies</a>
-</li>
-<li>
   <a href="photography.html">Photography</a>
 </li>
       </ul>
@@ -371,7 +361,7 @@ div.tocify {
 </li>
 <li>
   <a href="https://orcid.org/0000-0002-1476-0452">
-    <span class="fa fa-orcid fa-lg"></span>
+    <span class="fa fa-brands fa-orcid fa-lg"></span>
      
   </a>
 </li>
@@ -397,6 +387,14 @@ href="https://scholar.google.com/citations?hl=en&amp;user=UI4wCAEAAAAJ"
 target="_blank">Google Scholar</a>.</p>
 <div id="peer-reviewed-articles" class="section level2">
 <h2>Peer-Reviewed Articles</h2>
+<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
+<ol start="5" style="list-style-type: decimal">
+<li>Huguenin, M. F., Holmes, R. M., Spence, P. &amp; England, M. H.
+<strong>Subsurface warming of the West Antarctic continental shelf
+linked to El Niño-Southern Oscillation</strong>. Accepted at
+<em>Geophysical Research Letters</em>. <a
+href="files/Huguenin_et_al_2024_ENSOAntarctica.pdf">pdf</a></li>
+</ol>
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
 <ol start="4" style="list-style-type: decimal">
 <li>Huguenin, M. F., Holmes, R. M., &amp; England, M. H. (2022).
@@ -433,17 +431,6 @@ Australian Perspective on Progress and Challenges</strong>. <em>Bulletin
 of the American Meteorological Society</em>, 100, 403-420. <a
 href="https://doi.org/10.1175/BAMS-D-18-0057.1">doi.org/10.1175/BAMS-D-18-0057.1</a>.</li>
 </ol>
-</div>
-<div id="articles-submitted-for-publication" class="section level2">
-<h2>Articles submitted for publication</h2>
-<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-<ul>
-<li>Huguenin, M. F., Holmes, R. M., Spence, P. &amp; England, M. H.
-<strong>Subsurface warming of the West Antarctic continental shelf
-linked to El Niño-Southern Oscillation</strong>. In review at
-<em>Geophysical Research Letters</em>. <a
-href="files/Huguenin_et_al_2024_ENSOAntarctica.pdf">pdf</a></li>
-</ul>
 </div>
 <div id="theses" class="section level2">
 <h2>Theses</h2>
