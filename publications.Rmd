@@ -16,7 +16,7 @@ I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&
 ## Peer-Reviewed Articles
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-5. Huguenin, M. F., Holmes, R. M., Spence, P. & England, M. H. **Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation**. Accepted at *Geophysical Research Letters*. [pdf](files/Huguenin_et_al_2024_ENSOAntarctica.pdf)
+5. Huguenin, M. F., Holmes, R. M., Spence, P. & England, M. H. **Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation**. In press at *Geophysical Research Letters*. [pdf](files/Huguenin_et_al_2024_ENSOAntarctica.pdf)
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
 4. Huguenin, M. F., Holmes, R. M., & England, M. H. (2022). **Drivers and distribution of global ocean heat uptake over the last half century**. *Nature Communications*. 13, 4921. [doi.org/10.1038/s41467-022-32540-5](https://doi.org/10.1038/s41467-022-32540-5).
