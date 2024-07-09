@@ -40,6 +40,16 @@ output:
 2016, June 13. Ocean Heat Uptake and Implications on Sea Level Rise, **Bachelor's Seminar**, ETH Zurich, Switzerland [pdf](presentations/poster_bsc_seminar_maurice_huguenin_2016.pdf)
 
 ## Oral Presentations
+2024, March 25. A fun introduction to LaTeX, **CCRC Fun Seminar Series**, UNSW Sydney, NSW, Australia [material on github](https://github.com/mauricehuguenin/introduction_latex)
+
+2024, February 19. Subsurface warming of West Antarctic coastal waters linked to El Niño events, **Ocean Sciences Meeting**, New Orleans, Louisiana, United States of America
+
+2023, December 12. Science in Antarctica, **Presentation on the USCGC Polar Star** with Hannah Dawson, Sydney, New South Wales, Australia
+
+2023, November 1. Processes and dynamics of global to regional ocean heat uptake and variability, **Physical Oceanography Seminar**, IMAS University of Tasmania, Tasmania, Australia
+
+2023, September 20. Processes and dynamics of global to regional ocean heat uptake and variability, **PhD Closing Seminar**, UNSW Sydney, New South Wales, Australia
+
 2023, June 26. Drivers and distribution of global ocean heat uptake over the last half century, **Ocean Circulation and Climate Dynamics Colloquium**, GEOMAR Kiel, online.
 
 2023, March 21. Subsurface warming of West Antarctic coastal waters during El Niño events, **University of Sydney Oceanography Workshop**, Sydney, New South Wales, Australia
