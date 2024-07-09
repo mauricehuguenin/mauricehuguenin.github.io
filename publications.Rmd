@@ -15,31 +15,27 @@ I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&
 
 ## Peer-Reviewed Articles
 
-<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-5. Huguenin, M. F., Holmes, R. M., Spence, P. & England, M. H. **Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation**. In press at *Geophysical Research Letters*. [pdf](files/Huguenin_et_al_2024_ENSOAntarctica.pdf)
+5. **Huguenin, M. F.**, Holmes, R. M., Spence, P. & England, M. H. (2024). [Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation](https://doi.org/10.1029/2023GL104518). *Geophysical Research Letters*, 51, e2023GL104518.
 
 <!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-4. Huguenin, M. F., Holmes, R. M., & England, M. H. (2022). **Drivers and distribution of global ocean heat uptake over the last half century**. *Nature Communications*. 13, 4921. [doi.org/10.1038/s41467-022-32540-5](https://doi.org/10.1038/s41467-022-32540-5).
+4. **Huguenin, M. F.**, Holmes, R. M., & England, M. H. (2022). [Drivers and distribution of global ocean heat uptake over the last half century](https://doi.org/10.1038/s41467-022-32540-5). *Nature Communications*. 13, 4921.
 
-<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-3. Huguenin, M. F., Holmes, R. M., & England, M. H. (2020). **Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events**. *Journal of Climate*. 33, 9945–9964. [doi.org/10.1175/JCLI-D-20-0198.1](https://doi.org/10.1175/JCLI-D-20-0198.1).
+3. **Huguenin, M. F.**, Holmes, R. M., & England, M. H. (2020). [Key Role of Diabatic Processes in Regulating Warm Water Volume Variability Over ENSO Events](https://doi.org/10.1175/JCLI-D-20-0198.1). *Journal of Climate*. 33, 9945–9964.
 
-<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1029/2019GL086132" style="float:right;"></div> -->
-2. Huguenin, M. F., Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., & Knutti, R. (2020). **Lack of Change in the Projected Frequency and Persistence of Atmospheric Circulation Types Over Central Europe**. *Geophysical Research Letters*, 47. [doi.org/10.1029/2019GL086132](https://doi.org/10.1029/2019GL086132).
+2. **Huguenin, M. F.**, Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., & Knutti, R. (2020). [Lack of Change in the Projected Frequency and Persistence of Atmospheric Circulation Types Over Central Europe](https://doi.org/10.1029/2019GL086132). *Geophysical Research Letters*, 47.
 
-<!-- <div class='altmetric-embed' data-badge-popover="left" data-badge-type='donut' data-hide-no-mentions="true" data-doi="10.1175/BAMS-D-18-0057.1" style="float:right;"></div> -->
-1. Santoso, A., Hendon, H., Watkins, A., Power, S., Dommenget, D., England, M. H., Frankcombe, L., Holbrook, N. J., Holmes, R. M., Hope, P., Lim, E., Luo, J., McGregor, S., Neske, S., Nguyen, H., Pepler, A., Rashid, H., Gupta, A. S., Taschetto, A. S., Wang, G., Abellán, E., Sullivan, A., Huguenin, M. F., Gamble, F. & Delage, F. (2019). **Dynamics and Predictability of El Niño-Southern Oscillation: An Australian Perspective on Progress and Challenges**. *Bulletin of the American Meteorological Society*, 100, 403-420. [doi.org/10.1175/BAMS-D-18-0057.1](https://doi.org/10.1175/BAMS-D-18-0057.1).
+1. Santoso, A., Hendon, H., Watkins, A., Power, S., Dommenget, D., England, M. H., Frankcombe, L., Holbrook, N. J., Holmes, R. M., Hope, P., Lim, E., Luo, J., McGregor, S., Neske, S., Nguyen, H., Pepler, A., Rashid, H., Gupta, A. S., Taschetto, A. S., Wang, G., Abellán, E., Sullivan, A., **Huguenin, M. F.**, Gamble, F. & Delage, F. (2019). [Dynamics and Predictability of El Niño-Southern Oscillation: An Australian Perspective on Progress and Challenges](https://doi.org/10.1175/BAMS-D-18-0057.1). *Bulletin of the American Meteorological Society*, 100, 403-420.
 
 ## Theses
-- Huguenin, M. F., 2023. **Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability**. Doctoral Thesis, Climate Change Research Centre, UNSW Sydney, Sydney, Australia. [doi.org/10.26190/unsworks/25224](https://doi.org/10.26190/unsworks/25224).
+- **Huguenin, M. F.** (2023). [Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability](https://doi.org/10.26190/unsworks/25224). Doctoral Thesis, Climate Change Research Centre, UNSW Sydney, Sydney, Australia.
 
-- Huguenin, M. F., 2018. **Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events**. Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/msc_thesis_maurice_huguenin_2018.pdf).
+- **Huguenin, M. F.**. (2018). [Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events](files/msc_thesis_maurice_huguenin_2018.pdf). Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland.
 
-- Huguenin, M. F., 2016. **Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016**. Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland. [pdf](files/bsc_thesis_maurice_huguenin_2016.pdf).
-
+- **Huguenin, M. F.**. (2016). [Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016](files/bsc_thesis_maurice_huguenin_2016.pdf). Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland.
 
 
 ## Media
+- The Conversation: [Heat from El Niño can warm oceans off West Antarctica – and melt floating ice shelves from below](https://theconversation.com/heat-from-el-nino-can-warm-oceans-off-west-antarctica-and-melt-floating-ice-shelves-from-below-226233)
 - The Academic Minute: [Southern Ocean Takes on the Heat of Climate Change](https://academicminute.org/2022/12/maurice-huguenin-university-of-new-south-wales-southern-ocean-takes-on-the-heat-of-climate-change/)
 - UNSW Newsroom: [Southern Ocean takes on the heat of climate change](https://newsroom.unsw.edu.au/news/science-tech/southern-ocean-takes-heat-climate-change)
 - The Conversation: [The Southern Ocean absorbs more heat than any other ocean on Earth, and the impacts will be felt for generations](https://theconversation.com/the-southern-ocean-absorbs-more-heat-than-any-other-ocean-on-earth-and-the-impacts-will-be-felt-for-generations-189561)
