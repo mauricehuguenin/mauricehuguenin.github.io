@@ -9,6 +9,9 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Poster Presentations
+2024, July 1-4. Weddell Sea dense shelf water formation decrease linked to IPO shifts, **Ocean Modelling and Observation workshop**, Canberra, Australia
+[pdf](presentations/poster_OMO_workshop_maurice_huguenin_2024.pdf)
+
 2023, September 4-8. Subsurface warming of West Antarctica during El Niño, **ACCESS-NRI and COSIMA workshops**, Canberra, Australia
 [pdf](presentations/poster_access_nri_and_cosima_workshops_maurice_huguenin_2023.pdf)
 
