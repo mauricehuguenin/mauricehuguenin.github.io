@@ -13,7 +13,12 @@ output:
 
 I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&user=UI4wCAEAAAAJ){target="_blank"}.
 
-## Peer-Reviewed Articles
+## In-progress articles
+7. England, M. H., Li, Z., **Huguenin, M. F.**, Kiss, A. E., Sen Gupta, A., Holmes, R. M. & Rahmstorf, S. Drivers of the unprecedented North Atlantic marine heat wave in 2023. *In preparation*.
+
+6. **Huguenin, M. F.**, Ryan, S., Ummenhofer, C. C. & England, M. H. (2024). Linking the recent decrease in Weddell Sea dense shelf water formation to shifts in the Interdecadal Pacific Oscillation. *In preparation*.
+
+## Peer-reviewed articles
 
 5. **Huguenin, M. F.**, Holmes, R. M., Spence, P. & England, M. H. (2024). [Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation](https://doi.org/10.1029/2023GL104518). *Geophysical Research Letters*, 51, e2023GL104518.
 
