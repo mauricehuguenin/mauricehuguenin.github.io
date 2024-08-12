@@ -8,7 +8,7 @@ pagetitle: "Maurice F. Huguenin"
 <div style="text-align: right">Mindil Beach, Darwin, NT, Australia</div>
 
 <br/><br/>
-<img src="images/maurice_1.jpg" style="width:20%; margin-right: 30px" align="left">
+<img src="images/maurice_1.jpg" style="width:15%; margin-right: 30px" align="left">
 <!--- border:10px solid; --->
 
 <style> body {text-align: justify} </style> <!-- Justify text. -->
@@ -16,7 +16,6 @@ pagetitle: "Maurice F. Huguenin"
 <font size="4">**About me:**</font>\
 **Research Scholar**<br/>
 - [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Massachusetts, United States<br/>
-
 **Postdoctoral research associate**<br/>
 - [Centre for Marine Science and Innovation](https://www.unsw.edu.au/research/cmsi), University of New South Wales, Sydney, Australia<br/>
 - [ARC Australian Centre for Excellence in Antarctic Science](https://antarctic.org.au), University of New South Wales, Sydney, Australia<br/>
