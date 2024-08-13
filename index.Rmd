@@ -14,7 +14,7 @@ pagetitle: "Maurice F. Huguenin"
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 <font size="4">**About me:**</font>\
-**Research Scholar**<br/>
+**Visiting researcher**<br/>
 - [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Massachusetts, United States<br/>
 **Postdoctoral research associate**<br/>
 - [Centre for Marine Science and Innovation](https://www.unsw.edu.au/research/cmsi), University of New South Wales, Sydney, Australia<br/>
