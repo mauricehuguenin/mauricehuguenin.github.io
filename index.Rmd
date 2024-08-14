@@ -14,9 +14,9 @@ pagetitle: "Maurice F. Huguenin"
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 <font size="4">**About me:**</font>\
-**Visiting researcher**<br/>
+**Guest investigator at**<br/>
 - [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Massachusetts, United States<br/>
-**Postdoctoral research associate**<br/>
+**Postdoctoral research associate at**<br/>
 - [Centre for Marine Science and Innovation](https://www.unsw.edu.au/research/cmsi), University of New South Wales, Sydney, Australia<br/>
 - [ARC Australian Centre for Excellence in Antarctic Science](https://antarctic.org.au), University of New South Wales, Sydney, Australia<br/>
 
