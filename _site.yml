@@ -11,6 +11,8 @@ navbar:
       href: eth_studium.html
     - text: "Photography"
       href: photography.html
+    - text: "2024 US Election"
+      href: election.html
 
   right:
     - icon: fa-envelope fa-lg
