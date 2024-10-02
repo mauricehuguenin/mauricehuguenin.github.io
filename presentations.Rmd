@@ -43,6 +43,8 @@ output:
 2016, June 13. Ocean Heat Uptake and Implications on Sea Level Rise, **Bachelor's Seminar**, ETH Zurich, Switzerland [pdf](presentations/poster_bsc_seminar_maurice_huguenin_2016.pdf)
 
 ## Oral Presentations
+2024, October 1. Processes and dynamics of global to regional ocean heat uptake and variability, **Physical Oceanography Seminar**, Woods Hole Oceanographic Institution, Massachusetts, United States [condensed slides](presentations/slides_condensed_WHOI_PO_seminar_maurice_huguenin_2024_no_WIP_slides.pdf)
+
 2024, March 25. A fun introduction to LaTeX, **CCRC Fun Seminar Series**, UNSW Sydney, NSW, Australia [material on github](https://github.com/mauricehuguenin/introduction_latex)
 
 2024, February 19. Subsurface warming of West Antarctic coastal waters linked to El Niño events, **Ocean Sciences Meeting**, New Orleans, Louisiana, United States of America
