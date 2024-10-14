@@ -23,7 +23,7 @@ pagetitle: "Maurice F. Huguenin"
 <!---  Climate science Postdoc at the [University of New South Wales](https://www.unsw.edu.au/research/cmsi)<br/> --->
 <!---  &nbsp;&nbsp;&nbsp;- [Australian Centre for Excellence in Antarctic Science](https://antarctica.org.au)<br/> --->
 
-**My [CV](files/CV_Maurice_Huguenin_2024__August_September.pdf)**\
+**My [CV](files/CV_Maurice_Huguenin_2024.pdf)**\
 
 **My education**\
 - Doctor of Philosophy UNSW in Climate Science, Sydney, Australia (2023)\
