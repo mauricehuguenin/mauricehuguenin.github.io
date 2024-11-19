@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "<div><img id=\"logo\" style=\"float:left;height:25px;text-align=center\" src=\"favicon.ico\"/>&nbspMaurice F. Huguenin</div>" 
   left:
-    - text: "Publications, Data & Media"
+    - text: "Publications & Media"
       href: publications.html
     - text: "Presentations"
       href: presentations.html
@@ -17,11 +17,8 @@ navbar:
       href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/mauricehuguenin
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/MauriceHuguenin
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/maurice-huguenin-997b25166/
-  
 
 output:
   html_document:
