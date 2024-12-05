@@ -17,6 +17,8 @@ navbar:
       href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/mauricehuguenin
+    - icon: fa-brands fa-bluesky fa-lg
+      href: https://bsky.app/profile/mauricehuguenin.bsky.social
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/maurice-huguenin-997b25166/
 
