@@ -27,7 +27,7 @@ pagetitle: "Maurice F. Huguenin"
 **My [CV](files/CV_Maurice_Huguenin_2024.pdf)**\
 
 **My education**\
-- Doctor of Philosophy UNSW in Climate Science, Sydney, Australia (2023), [two-page thesis summary](files/Huguenin_Maurice_Thesis_Summary_20241219.pdf)\
+- Doctor of Philosophy UNSW in Climate Science, Sydney, Australia (2023), [2-page summary](files/Huguenin_Maurice_Thesis_Summary_20241219.pdf)\
 - Master of Science ETH in Atmospheric and Climate Science, Zurich, Switzerland (2018)\
 - Bachelor of Science ETH in Earth Sciences, Zurich, Switzerland (2016)\
 
