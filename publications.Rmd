@@ -13,6 +13,8 @@ output:
 
 I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&user=UI4wCAEAAAAJ){target="_blank"}.
 
+You can find a two-page summary of my PhD thesis [here](files/Huguenin_Maurice_Thesis_Summary_20241219.pdf).
+
 ## In-progress articles
 <!----> 7. **Huguenin, M. F.**, Ryan, S., Ummenhofer, C. C. & England, M. H. (2024). Linking the recent decrease in Weddell Sea dense shelf water formation to shifts in the Interdecadal Pacific Oscillation. *In preparation*.
 
