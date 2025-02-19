@@ -47,7 +47,6 @@ output:
 ## Oral Presentations
 2025, February 12. How the tropical Pacific impacts Weddell Sea dense shelf water formation, **WHOI Postdoc Symposium**, Woods Hole Oceanographic Institution, Massachusetts, Massachussets, United States
 
-
 2024, October 21. A summary of my PhD thesis in 23 mins, **PODS XIII - Physical Oceanography Dissertations Symposium**, Lihue, Hawai'i, United States [slides](presentations/slides_condensed_PODSXIII_symposium_maurice_huguenin_2024.pdf)
 
 2024, October 1. Processes and dynamics of global to regional ocean heat uptake and variability, **Physical Oceanography Seminar**, Woods Hole Oceanographic Institution, Massachusetts, United States [slides](presentations/slides_condensed_WHOI_PO_seminar_maurice_huguenin_2024_no_WIP_slides.pdf)
