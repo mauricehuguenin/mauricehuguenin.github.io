@@ -12,14 +12,14 @@ output:
 
 ## Blue Hour Tips
 
-The Blue Hour is the period of the day before or after sunset when the sky is still blue. Usually it lasts about 30 minutes. Key is to have an even surface (or tripod) to stabilise the camera as exposure times of more than one second are necessary.
+The Blue Hour is the period of the day before or after sunset when the sky is still blue. Usually it lasts about 30 minutes. To take pictures during this time of day, it is key is to have an even surface (or tripod) to stabilise the camera as exposure times of more than one second are necessary.
 
 <img src="photography/20180711-P7117094.jpg" style="width:100%; border:0px solid; margin-right: 20px" align="center">
 Blue Hour at Marina Bay, Singapore
 
 * [https://www.bluehoursite.com/](https://www.bluehoursite.com/) is helpful in determining when the Blue Hour happens at your location.
 
-* Camera Settings: Aperature priority (A) with f4.5 or higher, ISO 200+, Manual focus (MF) and 2 sec. timer with Anti-Shock activated
+* In this picture I used a 9-18mm f/4-5.6 lens, aperture priority (A) with f4.5 or higher, ISO 200, Manual focus (MF) and 2 sec. timer with Anti-Shock activated
 
 ## Top 5 Black and White Sydney
 
