@@ -44,7 +44,7 @@ In 2015, UN member states agreed to 17 global [Sustainable Development Goals](ht
 Click the icons for more info on each of the three goals.
 
 **Acknowledgment of Country**\
-I acknowledge the Traditional Owners, the [Bedegal](https://www.indigenous.unsw.edu.au/strategy/culture-and-country/acknowledgement-country-and-welcome-country) and [Wampanoag](https://mashpeewampanoagtribe-nsn.gov/) People, who have cared for this land, sea and water that I live and work on across Australia and the United States. I also pay my respects to their Elders, past, present and emerging, for they hold the memories, the tradition and the culture of Aboriginal and First Nations people.
+I acknowledge the Traditional Custodians, the [Bedegal](https://www.indigenous.unsw.edu.au/strategy/culture-and-country/acknowledgement-country-and-welcome-country) and [Wampanoag](https://mashpeewampanoagtribe-nsn.gov/) people, who have cared for this land, sea and water that I live and work on across Australia and the United States. I also pay my respects to their Elders, past, present and emerging, for they hold the memories, the tradition and the culture of Aboriginal and First Nations people.
 
 <br/><div style="text-align: right">*Last updated: `r format(Sys.time(), '%d %b. %Y')`*</div>
 
