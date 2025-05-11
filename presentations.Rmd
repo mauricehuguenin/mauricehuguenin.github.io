@@ -47,9 +47,13 @@ output:
 
 
 ## Oral Presentations
+2025, May 1. How shifts in the normal state of our world can make more or less very heavy water in the land of the ice, **European Geophysical Union Annual Meeting**, Vienna, Austria
+
+2025, April 30. Impact of the Interdecadal Pacific Oscillation on Weddell Sea dense shelf water formation, **European Geophysical Union Annual Meeting**, Vienna, Austria
+
 2025, February 28. Processes and dynamics of global to regional ocean heat uptake and variability, **Physical Oceanography Seminar Series**, University of Rhode Island Graduate School of Oceanography, Rhode Island, United States [recording](presentations/Rhode_Island_seminar_recording_20250228.mp4)
 
-2025, February 12. How the tropical Pacific impacts Weddell Sea dense shelf water formation, **WHOI Postdoc Symposium**, Woods Hole Oceanographic Institution, Massachussets, United States
+2025, February 12. How the tropical Pacific impacts Weddell Sea dense shelf water formation, **WHOI Postdoc Symposium**, Woods Hole Oceanographic Institution, Massachusetts, United States
 
 2024, October 21. A summary of my PhD thesis in 23 mins, **PODS XIII - Physical Oceanography Dissertations Symposium**, Lihue, Hawai'i, United States [slides](presentations/slides_condensed_PODSXIII_symposium_maurice_huguenin_2024.pdf)
 
