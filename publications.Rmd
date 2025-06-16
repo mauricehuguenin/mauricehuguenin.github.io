@@ -32,26 +32,26 @@ I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&
 <!----> 1. Santoso, A., Hendon, H., Watkins, A., Power, S., Dommenget, D., England, M. H., Frankcombe, L., Holbrook, N. J., Holmes, R. M., Hope, P., Lim, E., Luo, J., McGregor, S., Neske, S., Nguyen, H., Pepler, A., Rashid, H., Gupta, A. S., Taschetto, A. S., Wang, G., Abellán, E., Sullivan, A., *Huguenin, M. F.*, Gamble, F., & Delage, F. (2019). [Dynamics and Predictability of El Niño-Southern Oscillation: An Australian Perspective on Progress and Challenges](https://doi.org/10.1175/BAMS-D-18-0057.1). **Bulletin of the American Meteorological Society**, 100, 403-420.
 
 ## Data sets and analysis code
-<!----> 6. **Huguenin, M. F.**, Holmes, R. H., Spence, P., & England, M. H. (2024). ENSO-Antarctica_data (Version 20240118) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.10526062](https://doi.org/10.5281/zenodo.10526062).
+<!----> 6. *Huguenin, M. F.*, Holmes, R. H., Spence, P., & England, M. H. (2024). ENSO-Antarctica_data (Version 20240118) [Data set]. **Zenodo**. [https://doi.org/10.5281/zenodo.10526062](https://doi.org/10.5281/zenodo.10526062).
 
-<!----> 5. **Huguenin, M. F.**, Holmes, R. H., Spence, P., & England, M. H. (2024). ENSO-Antarctica_scripts (20240126_v2) [Analysis code]. Zenodo.
+<!----> 5. *Huguenin, M. F.*, Holmes, R. H., Spence, P., & England, M. H. (2024). ENSO-Antarctica_scripts (20240126_v2) [Analysis code]. **Zenodo**.
 [https://doi.org/10.5281/zenodo.10570459](https://doi.org/10.5281/zenodo.10570459).
 
-<!----> 4. **Huguenin, M. F.**, Holmes, R. H., & England, M. H. (2023). ACCESS-OM2 1° resolution global repeat decade full forcing interannual simulation data for 1972-2018 (1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8343648](https://doi.org/10.5281/zenodo.8343648).
+<!----> 4. *Huguenin, M. F.*, Holmes, R. H., & England, M. H. (2023). ACCESS-OM2 1° resolution global repeat decade full forcing interannual simulation data for 1972-2018 (1.0) [Data set]. **Zenodo**. [https://doi.org/10.5281/zenodo.8343648](https://doi.org/10.5281/zenodo.8343648).
 
-<!----> 3. **Huguenin, M. F.**, Holmes, R. H., & England, M. H. (2023). ACCESS-OM2 1° resolution global repeat decade forcing control simulation data for 1972-2018 (1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8339578](https://doi.org/10.5281/zenodo.8339578).
+<!----> 3. *Huguenin, M. F.*, Holmes, R. H., & England, M. H. (2023). ACCESS-OM2 1° resolution global repeat decade forcing control simulation data for 1972-2018 (1.0) [Data set]. **Zenodo**. [https://doi.org/10.5281/zenodo.8339578](https://doi.org/10.5281/zenodo.8339578).
 
-<!----> 2. **Huguenin, M. F.**, Holmes, R. H., & England, M. H. (2022). Data and analysis scripts for Huguenin et al. (2022), Nature Communications (20220721_v2) [Analysis code]. Zenodo. [https://doi.org/10.5281/zenodo.6873094](https://doi.org/10.5281/zenodo.6873094).
+<!----> 2. *Huguenin, M. F.*, Holmes, R. H., & England, M. H. (2022). Data and analysis scripts for Huguenin et al. (2022), Nature Communications (20220721_v2) [Analysis code]. **Zenodo**. [https://doi.org/10.5281/zenodo.6873094](https://doi.org/10.5281/zenodo.6873094).
 
-<!----> 1. **Huguenin, M. F.**, Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., & Knutti, R. (2020) mauricehuguenin/europe_circulation_types: Analysis Scripts and Data (20240628_v2) [Analysis scripts and data]. Zenodo. [https://doi.org/10.5281/zenodo.12578019](https://doi.org/10.5281/zenodo.12578019).
+<!----> 1. *Huguenin, M. F.*, Fischer, E. M., Kotlarski, S., Scherrer, S. C., Schwierz, C., & Knutti, R. (2020) mauricehuguenin/europe_circulation_types: Analysis Scripts and Data (20240628_v2) [Analysis scripts and data]. **Zenodo**. [https://doi.org/10.5281/zenodo.12578019](https://doi.org/10.5281/zenodo.12578019).
 
 ## Theses
-- **Huguenin, M. F.** (2023). [Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability](https://doi.org/10.26190/unsworks/25224). Doctoral Thesis, Climate Change Research Centre, UNSW Sydney, Sydney, Australia. [2-page summary](files/Huguenin_Maurice_Thesis_Summary_20241219.pdf).
+- *Huguenin, M. F.* (2023). [Processes and Dynamics of Global to Regional Ocean Heat Uptake and Variability](https://doi.org/10.26190/unsworks/25224). Doctoral Thesis, Climate Change Research Centre, **UNSW Sydney**, Sydney, Australia. [2-page summary](files/Huguenin_Maurice_Thesis_Summary_20241219.pdf).
 
 
-- **Huguenin, M. F.**. (2018). [Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events](files/msc_thesis_maurice_huguenin_2018.pdf). Master Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland.
+- *Huguenin, M. F.*. (2018). [Mechanisms Driving Ocean Heat Uptake and Warm Water Volume Variability During Idealized ENSO Events](files/msc_thesis_maurice_huguenin_2018.pdf). Master Thesis, Institute for Atmospheric and Climate Science, **ETH Zurich**, Zurich, Switzerland.
 
-- **Huguenin, M. F.**. (2016). [Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016](files/bsc_thesis_maurice_huguenin_2016.pdf). Bachelor Thesis, Institute for Atmospheric and Climate Science, ETH Zurich, Zurich, Switzerland.
+- *Huguenin, M. F.*. (2016). [Ocean Heat Storage And Implications On Sea Level Rise Using CCSM4 Model Output For 1993-2016](files/bsc_thesis_maurice_huguenin_2016.pdf). Bachelor Thesis, Institute for Atmospheric and Climate Science, **ETH Zurich**, Zurich, Switzerland.
 
 
 ## Media
