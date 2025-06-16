@@ -16,7 +16,7 @@ pagetitle: "Maurice F. Huguenin"
 
 <font size="4">**About me:**</font>\
 **Visiting Scientist at**<br/>
-- [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Massachusetts, United States<br/>
+- [Environmental Physics Group](https://up.ethz.ch/), Swiss Federal University of Technology Zurich, Zurich, Switzerland<br/>
 **Postdoctoral research associate at**<br/>
 - [Centre for Marine Science and Innovation](https://www.unsw.edu.au/research/cmsi), University of New South Wales, Sydney, Australia<br/>
 - [ARC Australian Centre for Excellence in Antarctic Science](https://antarctic.org.au), University of New South Wales, Sydney, Australia<br/>
@@ -26,17 +26,20 @@ pagetitle: "Maurice F. Huguenin"
 
 **My [CV](files/CV_Maurice_Huguenin_2025.pdf)**\
 
-**My education**\
-- Doctor of Philosophy UNSW in Climate Science, Sydney, Australia (2023), [2-page summary](files/Huguenin_Maurice_Thesis_Summary_20241219.pdf)\
-- Master of Science ETH in Atmospheric and Climate Science, Zurich, Switzerland (2018)\
-- Bachelor of Science ETH in Earth Sciences, Zurich, Switzerland (2016)\
-
 **My research interests**\
 - Large-scale physical oceanography from the tropics to the high latitudes\
 - Ocean-sea ice modelling\
 - Internal climate variability and its atmospheric teleconnections\
 - Ocean heat content\
 - Central European atmospheric circulation\
+
+**Education**\
+- Doctor of Philosophy UNSW in Climate Science, Sydney, Australia (2023), [2-page summary](files/Huguenin_Maurice_Thesis_Summary_20241219.pdf)\
+- Master of Science ETH in Atmospheric and Climate Science, Zurich, Switzerland (2018)\
+- Bachelor of Science ETH in Earth Sciences, Zurich, Switzerland (2016)\
+
+<!---  **Appointments**\ --->
+<!---  - Visiting scientist [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Massachusetts, United States<br/> ---> 
 
 **Expertise related to UN Sustainable Development Goals**\
 In 2015, UN member states agreed to 17 global [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/) to end poverty, protect the planet and ensure peace and prosperty for all. My work contributes towards the following goals:
