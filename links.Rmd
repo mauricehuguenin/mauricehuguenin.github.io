@@ -21,7 +21,6 @@ output:
 
 ## Other links
 - [https://www.greatcirclemap.com/](https://www.greatcirclemap.com/) Draw line between airports and calculate distances
-- [Where is RV Investigator now?](https://www.csiro.au/en/about/facilities-collections/mnf) Scroll down for webcam
 
 
 
