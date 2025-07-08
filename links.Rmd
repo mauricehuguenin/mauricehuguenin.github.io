@@ -1,0 +1,28 @@
+---
+pagetitle: "Links"
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Weather and climate data
+- [https://isithotrightnow.com/](https://isithotrightnow.com/) Is it really that hot in AU?
+- [https://nsidc.org/sea-ice-today](https://nsidc.org/sea-ice-today) Daily Arctic and Antarctic sea ice data
+- [https://climatereanalyzer.org/](https://climatereanalyzer.org/) Weather forecasts and climate charts
+- [https://www.wetterzentrale.de/](https://www.wetterzentrale.de/) Weather forecast maps and diagrams
+
+## Free HBR resources
+- [What Makes a Leader?](https://agis93.wordpress.com/wp-content/uploads/2014/02/hbr_dan_goleman_what_makes_a_leader.pdf) by David Goleman (2004)
+- [How to Get Something Done When You're Feeling Down](https://hbr.org/2021/10/how-to-get-something-done-when-youre-feeling-down) by Alice Boyes (2021)
+- [Leading Change](https://irp-cdn.multiscreensite.com/6e5efd05/files/uploaded/Leading%20Change.pdf) by John P. Kotter (2007)
+
+## Other links
+- [https://www.greatcirclemap.com/](https://www.greatcirclemap.com/) Draw line between airports and calculate distances
+- [Where is RV Investigator now?](https://www.csiro.au/en/about/facilities-collections/mnf) Scroll down for webcam
+
+
+
+

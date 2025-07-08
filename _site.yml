@@ -11,6 +11,8 @@ navbar:
       href: eth_studium.html
     - text: "Photography"
       href: photography.html
+    - text: "Links"
+      href: links.html
 
   right:
     - icon: fa-envelope fa-lg
