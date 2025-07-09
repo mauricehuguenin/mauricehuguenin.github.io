@@ -8,7 +8,7 @@ output:
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Real-time weather and climate data
+## Current weather and climate data
 - [https://isithotrightnow.com/](https://isithotrightnow.com/) Is it really that hot in AU?
 - [https://nsidc.org/sea-ice-today](https://nsidc.org/sea-ice-today) Daily Arctic and Antarctic sea ice data
 - [https://climatereanalyzer.org/](https://climatereanalyzer.org/) Weather forecasts and climate charts
