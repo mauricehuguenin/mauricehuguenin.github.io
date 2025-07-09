@@ -21,6 +21,8 @@ output:
 
 ## Other links
 - [https://www.greatcirclemap.com/](https://www.greatcirclemap.com/) Draw line between airports and calculate distances
+- [https://www.zjayres.com/](https://www.zjayres.com/) Mental Health in Academia resources
+- [https://carpentries-lab.github.io/python-aos-lesson/](https://carpentries-lab.github.io/python-aos-lesson/) Getting started with Python as an Atmosphere \& Climate Scientist
 
 
 
