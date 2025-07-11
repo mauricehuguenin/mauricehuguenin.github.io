@@ -9,7 +9,7 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Current weather and climate data
-- [https://isithotrightnow.com/](https://isithotrightnow.com/) Is it really that hot in AU?
+- [https://isithotrightnow.com/](https://isithotrightnow.com/) Is it really that hot in Australia?
 - [https://nsidc.org/sea-ice-today](https://nsidc.org/sea-ice-today) Daily Arctic and Antarctic sea ice data
 - [https://climatereanalyzer.org/](https://climatereanalyzer.org/) Weather forecasts and climate charts
 - [https://www.wetterzentrale.de/](https://www.wetterzentrale.de/) Weather forecast maps and diagrams
