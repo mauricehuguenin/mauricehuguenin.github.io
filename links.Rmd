@@ -13,6 +13,7 @@ output:
 - [https://nsidc.org/sea-ice-today](https://nsidc.org/sea-ice-today) Daily Arctic and Antarctic sea ice data
 - [https://climatereanalyzer.org/](https://climatereanalyzer.org/) Weather forecasts and climate charts
 - [https://www.wetterzentrale.de/](https://www.wetterzentrale.de/) Weather forecast maps and diagrams
+- [https://carbonmonitor.org/](https://carbonmonitor.org/) Daily CO2 emission estimates since 1 Jan. 2019
 
 ## Free HBR resources
 - [What Makes a Leader?](https://agis93.wordpress.com/wp-content/uploads/2014/02/hbr_dan_goleman_what_makes_a_leader.pdf) by David Goleman (2004)
