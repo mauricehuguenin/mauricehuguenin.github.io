@@ -34,9 +34,9 @@ pagetitle: "Maurice F. Huguenin"
 - Central European atmospheric circulation\
 
 **Education**\
-- Doctor of Philosophy UNSW in Climate Science, Sydney, Australia (2023), [2-page summary](files/Huguenin_Maurice_Thesis_Summary_20241219.pdf)\
-- Master of Science ETH in Atmospheric and Climate Science, Zurich, Switzerland (2018)\
-- Bachelor of Science ETH in Earth Sciences, Zurich, Switzerland (2016)\
+- 2023: Doctor of Philosophy UNSW in Climate Science, Sydney, Australia, [2-page summary](files/Huguenin_Maurice_Thesis_Summary_20241219.pdf)\
+- 2018: Master of Science ETH in Atmospheric and Climate Science, Zurich, Switzerland\
+- 2016: Bachelor of Science ETH in Earth Sciences, Zurich, Switzerland\
 
 <!---  **Appointments**\ --->
 <!---  - Visiting scientist [Woods Hole Oceanographic Institution](https://www.whoi.edu/), Massachusetts, United States<br/> ---> 
