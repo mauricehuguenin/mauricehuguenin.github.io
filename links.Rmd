@@ -19,9 +19,9 @@ output:
 - [What Makes a Leader?](https://agis93.wordpress.com/wp-content/uploads/2014/02/hbr_dan_goleman_what_makes_a_leader.pdf) by David Goleman (2004)
 - [How to Get Something Done When You're Feeling Down](https://hbr.org/2021/10/how-to-get-something-done-when-youre-feeling-down) by Alice Boyes (2021)
 - [Leading Change](https://irp-cdn.multiscreensite.com/6e5efd05/files/uploaded/Leading%20Change.pdf) by John P. Kotter (2007)
+- [How to Actually Start the Task You've Been Avoiding](https://hbr.org/2018/05/how-to-actually-start-the-task-youve-been-avoiding) by Peter Bregman (2018)
 <!--- 
 - [Managing Oneself](https://www.thecompleteleader.org/sites/default/files/imce/Managing%20Oneself_Drucker_HBR.pdf) by Peter F. Drucker (1999)
-- [How to actually start the task you've been avoiding](https://hbr.org/2018/05/how-to-actually-start-the-task-youve-been-avoiding) by Peter Bregman (2018)
  --->
  
 ## Other links
