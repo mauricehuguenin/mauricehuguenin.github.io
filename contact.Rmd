@@ -6,6 +6,12 @@ pagetitle: "Contact"
 
 I'd love to hear from you, so feel free to reach out:
 
+Maurice Huguenin<br>
+Office 5.513<br>
+c/o GEOMAR Helmholtz Centre for Ocean Research<br>
+Wischhofstr. 1-3<br>
+24148 Kiel<br>
+Germany<br>
 <!---
 Maurice Huguenin<br>
 Clark 349, Mail Stop 21<br>
@@ -14,8 +20,7 @@ Woods Hole Oceanographic Institution<br>
 Woods Hole, MA 02543<br>
 United States<br>
 --->
-
-E-mail: maurice.huguenin#whoi.edu*<br>
+E-mail: mhuguenin-virchaux#geomar.de*<br>
 
 Or connect with me on GitHub or Linkedin (links in top right).
 

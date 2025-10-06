@@ -15,11 +15,8 @@ pagetitle: "Maurice F. Huguenin"
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 <font size="4">**About me:**</font>\
-**Visiting Scientist at**<br/>
-- [Environmental Physics Group](https://up.ethz.ch/), Swiss Federal University of Technology Zurich, Zurich, Switzerland<br/>
 **Postdoctoral research associate at**<br/>
-- [Centre for Marine Science and Innovation](https://www.unsw.edu.au/research/cmsi), University of New South Wales, Sydney, Australia<br/>
-- [ARC Australian Centre for Excellence in Antarctic Science](https://antarctic.org.au), University of New South Wales, Sydney, Australia<br/>
+- [Biogeochemical Modelling Research Unit](https://www.geomar.de/en/research/fb2/fb2-bm/overview), GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany<br/>
 
 <!---  Climate science Postdoc at the [University of New South Wales](https://www.unsw.edu.au/research/cmsi)<br/> --->
 <!---  &nbsp;&nbsp;&nbsp;- [Australian Centre for Excellence in Antarctic Science](https://antarctica.org.au)<br/> --->
