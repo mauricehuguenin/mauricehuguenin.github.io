@@ -14,7 +14,7 @@ pagetitle: "Maurice F. Huguenin"
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 <font size="4">**About me:**</font>\
-**Postdoctoral research associate at**<br/>
+**Postdoctoral researcher at**<br/>
 - [Biogeochemical Modelling Research Unit](https://www.geomar.de/en/research/fb2/fb2-bm/overview), GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany<br/>
 
 <!---  Climate science Postdoc at the [University of New South Wales](https://www.unsw.edu.au/research/cmsi)<br/> --->
