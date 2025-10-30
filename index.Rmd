@@ -11,7 +11,6 @@ pagetitle: "Maurice F. Huguenin"
 <img src="images/maurice_1.jpg" style="width:15%; margin-right: 30px" align="left">
 <!--- border:10px solid; --->
 
-
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
 <font size="4">**About me:**</font>\
