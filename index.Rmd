@@ -26,7 +26,7 @@ pagetitle: "Maurice F. Huguenin"
 - Large-scale physical oceanography from the tropics to the high latitudes\
 - Ocean-sea ice modelling\
 - Internal climate variability and its atmospheric teleconnections\
-- Ocean heat content\
+- Ocean heat and carbon content\
 - Central European atmospheric circulation\
 
 **Education**\
