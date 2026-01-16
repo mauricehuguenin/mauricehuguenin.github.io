@@ -14,7 +14,9 @@ output:
 I have a profile on [Google Scholar](https://scholar.google.com/citations?hl=en&user=UI4wCAEAAAAJ){target="_blank"}.
 
 ## In-progress articles
-<!----> 7. *Huguenin, M. F.*, Ryan, S., Ummenhofer, C. C., & England, M. H. (2024). Linking the recent decrease in Weddell Sea dense shelf water formation to shifts in the Interdecadal Pacific Oscillation. **In preparation**.
+<!----> 8. *Huguenin, M. F.*, & Frenger, I. (2026) On the impact of different mesoscale eddy parameterisations on future ocean heat and carbon uptake. **In preparation**.
+
+<!----> 7. *Huguenin, M. F.*, Ryan, S., Ummenhofer, C. C., & England, M. H. (2026). Linking the recent decrease in Weddell Sea dense shelf water formation to shifts in the Interdecadal Pacific Oscillation. **In preparation**.
 
 ## Peer-reviewed articles
 <!----> 6. England, M. H., Li, Z., *Huguenin, M. F.*, Kiss, A. E., Sen Gupta, A., Holmes, R. M., & Rahmstorf, S. (2025). [Drivers of the unprecedented North Atlantic marine heat wave in 2023](https://doi.org/10.1038/s41586-025-08903-5). **Nature**.
