@@ -25,7 +25,6 @@ output:
 
 2022, November 03-04. Subsurface warming of West Antarctica during El Niño, **COSIMA meeting**, Hobart, Australia [pdf](presentations/poster_cosima_aceas_clex_agu_maurice_huguenin_2022.pdf)
 
-
 2022, July 04-05. Subsurface warming of West Antarctic coastal waters linked to ENSO events, **Multi-scale dynamics of the Southern Ocean Workshop**, Canberra, Australia 
 
 2022, February 08-17. Drivers and distribution of global ocean heat uptake over the last half century, **International Conference of Southern Hemispheric Meteorology and Oceanography**, Christchurch, New Zealand, online [pdf](presentations/poster_icshmo_conference_maurice_huguenin_2022.pdf)
@@ -47,6 +46,10 @@ output:
 
 
 ## Oral Presentations
+2026, January 22. West Antarctic coastal shelf warming during El Niño and future work ideas, **GEOMAR climODSEM seminar series**, Kiel, Schleswig-Holstein, Germany
+
+2026, January 21. Drivers of the unprecedented North Atlantic marine heat wave in 2023, **GEOMAR FB2 seminar series**, Kiel, Schleswig-Holstein, Germany
+
 2025, July 3. Processes and dynamics of Southern Ocean & Antarctic margin ocean heat variability, **UP Group meeting**, ETH Zurich, Zurich, Switzerland
 
 2025, May 1. How shifts in the normal state of our world can make more or less very heavy water in the land of the ice, **European Geophysical Union Annual Meeting**, Vienna, Austria
